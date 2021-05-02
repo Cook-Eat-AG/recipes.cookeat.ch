@@ -115,6 +115,22 @@
 		background: #F2EFEF;
 		border: none;
 		border-radius: 100px;
+		
+		/*margin: 32px 931px 36px 101px;*/
+
+		top: 32%;
+		bottom: 36%;
+
+		font-family: Ubuntu;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		line-height: 32px;
+		/* identical to box height, or 133% */
+
+		letter-spacing: 0.02em;
+
+		color: #000000;
 	}
 
 	.recipes {
@@ -140,7 +156,13 @@
 			</div>
 		</header>
 		<section class="container search">
-			<input class="search-input" type="text" name="search-input">
+			<div class="">
+				<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg">
+				  <path d="M19.087 18.205a4.882 4.882 0 1 0 .002-9.764 4.882 4.882 0 0 0-.002 9.764zm5.706-.292l5.726 5.726a1.216 1.216 0 0 1-.002 1.723 1.22 1.22 0 0 1-1.724.002l-5.828-5.827a7.324 7.324 0 1 1 1.829-1.624zM2 10.272c0-.674.414-1.221.913-1.221H8.41c.505 0 .913.542.913 1.22 0 .675-.414 1.222-.913 1.222H2.913c-.505 0-.913-.543-.913-1.221zm0 7.323c0-.674.414-1.221.913-1.221H8.41c.505 0 .913.542.913 1.22 0 .675-.414 1.222-.913 1.222H2.913c-.505 0-.913-.543-.913-1.221zm0 7.323c0-.674.402-1.22.914-1.22H20.31c.505 0 .915.542.915 1.22 0 .674-.402 1.221-.915 1.221H2.914c-.504 0-.914-.542-.914-1.221z" fill="#071E36" fill-rule="nonzero"></path>
+				</svg>
+				<input class="search-input" type="text" name="search-input">
+			</div>
+			
 		</section>
 		<main class="container recipes">
 			<!-- {% assign sorted = site.recipes | sort:"date" %}
