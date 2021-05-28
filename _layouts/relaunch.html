@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CookEat.ch bietet Rezepte für alle an!</title>
+	<link rel="stylesheet" href="css/relaunch.css">
+	<link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/icons/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="{{ site.baseurl }}/icons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="{{ site.baseurl }}/icons/favicon-16x16.png">
+	<link rel="manifest" href="{{ site.baseurl }}/manifest.json">
+	<link rel="mask-icon" href="{{ site.baseurl }}/icons/safari-pinned-tab.svg" color="#83E3C5">
+	<link rel="shortcut icon" href="{{ site.baseurl }}/icons/favicon.ico">
+	<link rel="preload" href="https://fonts.googleapis.com/css?family=Ubuntu" as="font" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Ubuntu">
+	<meta name="msapplication-TileColor" content="#83E3C5">
+	<meta name="msapplication-config" content="{{ site.baseurl }}/icons/browserconfig.xml">
+	<meta name="theme-color" content="#83E3C5">
+</head>
+<body>
+	<div class="main-wrapper">
+		<header class="header">
+			<div class="logo logo--header">
+				<img src="../assets/cookeat-logo.svg" alt="Das Logo von CookEat.ch" />
+			</div>
+			<div class="header-text">
+				<h1 class="headline headline--h1 headline--white">Rezepte</h1>
+				<p class="paragraph paragraph--large paragraph--white">All die tollen Rezepte der Cook Eat Essen zum selber kochen und auf dem Marktplatz anbieten.</p>
+			</div>
+		</header>
+		
+		<section class="search">
+			<input type="text" class="search--input" name="search-input" placeholder="Suche nach einem Rezept"/>
+		</section>
+		
+		<main class="main">
+			{% assign sorted = site.recipes | sort:"date" %}
+				{% for post in sorted %}
+					<div class="recipe">
+						<a href="{{ post.url | prepend: site.baseurl }}" class="recipe__link">
+							<!--{% for image in post.image %}
+								<img src="{{ image }}" width="420" height="227" />
+								{% endfor %}-->
+							<img src="https://placekitten.com/420/227" class="recipe__link--image" />
+							<h2 class="recipe__link--title">{{ post.title }}</h2>
+						</a>
+					</div>
+			{% endfor %}
+
+		</main>
+
+		<section class="pre-footer">
+			<p class="headline headline--h3">Du willst Dein Rezept auch hier sehen?</p>
+			<a href="#" class="button button--green paragraph paragraph--uppercase">Au, das wäre toll!</a>
+		</section>
+
+		<footer class="footer">
+			<div class="footer-maintext">
+				<p class="headline headline--h1 headline--white">Verkaufe dein Essen</p>
+				<p class="paragraph paragraph--big  paragraph--white">Mit Cook Eat kannst Du die tollen Essen mit lieben Menschen in der Nachbarschaft
+				teilen. Das spart dir Kosten und anderen Zeit. Probier es gleich aus!</p>
+
+				<a href="#" class="button button--orange paragraph paragraph--uppercase">Jetzt essen anbieten</a>
+			</div>
+			<div class="logo logo--footer">
+				<img src="../assets/cookeat-logo.svg" alt="Das Logo von CookEat.ch" />
+			</div>
+		</footer>
+
+		<section class="footer-legal">
+			<p class="paragraph paragraph--small">&copy; 2021 All rights reserved by Cook Eat</p>
+		</section>
+	</div>
+
+	<script src="js/main.js"/>
+</body>
+</html>

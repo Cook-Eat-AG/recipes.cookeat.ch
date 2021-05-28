@@ -1,0 +1,358 @@
+@import "normalize.css";
+:root {
+	--white: #ffffff;
+	--black: #000000;
+	--green: #bcc657;
+	--orange: #eeb92b;
+	--blue: #78a7b4;
+	--grey: #45423b;
+	--brownish-grey: #78a7b4;
+	--light-grey: #f2efef;
+	--brown-grey: #d6cdbe;
+
+	--background: #e5e5e5;
+	--text: var(--grey);
+	--footer: var(--brownish-grey);
+	--legal: var(--brown-grey);
+}
+
+@font-face {
+	font-family: "Debby";
+	src: url("../fonts/debby.ttf") format("truetype");
+}
+
+*,
+*::before,
+*::after {
+	box-sizing: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	background: var(--background);
+	box-sizing: border-box;
+	font-family: "Ubuntu", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+		Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	font-size: 100%;
+	color: var(--text);
+}
+
+a {
+	color: var(--green);
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	text-decoration-color: currentColor;
+	text-decoration-skip-ink: all;
+	text-decoration-thickness: 2px;
+}
+
+a:visited {
+	color: var(--green);
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	text-decoration-color: currentColor;
+	text-decoration-skip-ink: auto;
+	text-decoration-thickness: 2px;
+}
+
+a:hover,
+a:active {
+	color: var(--blue);
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	text-decoration-color: currentColor;
+	text-decoration-skip-ink: auto;
+	text-decoration-thickness: 2px;
+}
+
+.headline {
+	font-family: "Ubuntu", sans-serif;
+	color: var(--black);
+}
+
+.headline--h1 {
+	font-family: "Debby", sans-serif;
+	font-weight: 400;
+	font-size: 5rem;
+	line-height: 4.25rem;
+}
+
+.headline--h2 {
+	font-weight: 500;
+	font-size: 2.25rem;
+	line-height: 2rem;
+}
+
+.headline--h3 {
+	font-weight: 500;
+	font-size: 1.5rem;
+	line-height: 2rem;
+}
+
+.headline--white {
+	color: var(--white);
+}
+
+.paragraph {
+	font-weight: 400;
+	font-size: 1rem;
+	line-height: 1.5;
+}
+
+.paragraph--small {
+	font-weight: 700;
+	font-size: 0.75rem;
+	line-height: 2rem;
+}
+
+.paragraph--mid {
+	font-size: 1.12rem;
+}
+
+.paragraph--large {
+	font-size: 1.5rem;
+}
+
+.paragraph--white {
+	color: var(--white);
+}
+
+.button {
+	width: auto;
+	height: auto;
+	padding: 0.87rem 1.12rem;
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 1.12rem;
+	line-height: 1.5rem;
+	text-align: center;
+	border: none;
+	border-radius: 4px;
+}
+
+.button--orange {
+	background: var(--orange);
+	color: var(--white);
+}
+
+.button--green {
+	background: var(--green);
+	color: var(--white);
+}
+
+.button--ghost {
+	background: var(--white);
+	color: var(--grey);
+	border: 2px solid var(--grey);
+	border-radius: 4px;
+}
+
+.logo {
+	width: 120px;
+	height: 81px;
+}
+
+.logo--header {
+	grid: logo;
+	align-self: flex-start;
+	margin: 48px 0 0 60px;
+}
+
+.logo--footer {
+	grid-area: footer-logo;
+	justify-self: flex-end;
+	align-self: flex-end;
+	margin: 0 60px 30px 0;
+}
+
+.main-wrapper {
+	max-width: 1440px;
+	margin: 0 auto;
+	padding: 0 20px;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 385fr 200fr auto 250fr 461fr;
+	grid-template-areas:
+		"header"
+		"search"
+		"main"
+		"prefooter"
+		"footer";
+	background: var(--white);
+}
+
+@media only screen and (min-width: 1440px) {
+	.main-wrapper {
+		padding: 0;
+	}
+}
+
+.header {
+	grid-area: header;
+	background: url("../assets/kv_egg.jpg");
+	background-size: cover;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: auto repeat(2, 1fr);
+	grid-template-areas:
+		"logo"
+		"title"
+		"subtitle";
+}
+
+@media only screen and (min-width: 768px) {
+	.header {
+		grid-template-columns: 1fr 2fr;
+		grid-template-rows: auto repeat(2, 1fr);
+		grid-template-rows:
+			"logo logo"
+			". title"
+			". subtitle";
+	}
+}
+
+.header .headline {
+	grid-area: title;
+	max-width: 412px;
+	text-align: center;
+}
+
+.header .paragraph {
+	grid-area: subtitle;
+	max-width: 903px;
+	text-align: center;
+}
+
+.search {
+	grid-area: search;
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.search--input {
+	margin-top: 51px;
+	max-width: 1320px;
+	width: 100%;
+	max-height: 100px;
+	background: var(--light-grey);
+	border: none;
+	border-radius: 100px;
+	padding: 32px 36px;
+	font-size: 1.5rem;
+	line-height: 2rem;
+	font-weight: 400;
+	letter-spacing: 2%;
+	position: relative;
+}
+
+.search--input::before {
+	content: "";
+	background: url("data:image/svg+xml,%3Csvg aria-hidden='true' width='1em' height='1em' focusable='false' data-prefix='fas' data-icon='search' class='svg-inline--fa fa-search fa-w-16' role='img' xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Cpath fill='currentColor' d='M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z'%3E%3C/path%3E%3C/svg%3E");
+	background-size: 1rem;
+	width: 0.5em;
+	height: 0.5em;
+	position: absolute;
+}
+
+.main {
+	grid-area: main;
+	margin: 50px auto;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: center;
+	align-items: flex-start;
+}
+
+.recipe {
+	margin: 0 30px 30px 0;
+}
+
+@media only screen and (min-width: 1024px) {
+	.recipe:nth-of-type(3n) {
+		margin: 0 0 30px 0;
+	}
+}
+
+.recipe__link,
+.recipe__link--title {
+	font-size: 1.125rem;
+	line-height: 2rem;
+	font-weight: 500;
+	margin: 12px 0 0 0;
+	padding: 0 20px;
+	color: var(--grey);
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	text-decoration-color: currentColor;
+	text-decoration-skip-ink: auto;
+	text-decoration-thickness: 2px;
+}
+
+.recipe__link--image {
+	max-width: 420px;
+	width: 100%;
+	max-height: 227px;
+	height: 100%;
+	border: none;
+	border-radius: 8px;
+}
+
+.pre-footer {
+	grid-area: prefooter;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: space-evenly;
+	align-items: center;
+	text-align: center;
+}
+
+.footer {
+	grid-area: footer;
+	background: url("../assets/kv_egg-asparagus.jpg");
+	background-size: cover;
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-template-rows: 1fr;
+	grid-template-areas:
+		"footer-title"
+		"footer-logo";
+}
+
+@media only screen and (min-width: 768px) {
+	.footer {
+		grid-template-columns: 2fr 1fr;
+		grid-template-rows: 1fr;
+		grid-template-areas: "footer-title footer-logo";
+	}
+}
+
+.footer-maintext {
+	grid-area: footer-title;
+	display: flex;
+	flex-flow: column nowrap;
+	justify-content: space-evenly;
+	align-items: flex-start;
+	margin: 30px;
+}
+
+@media only screen and (min-width: 786px) {
+	.footer-maintext {
+		margin: 69px 0 0 121px;
+	}
+}
+
+.footer-maintext .headline {
+	max-width: 509px;
+}
+
+.footer-maintext .paragraph {
+	max-width: 645px;
+}
+
+.footer-legal {
+	background: var(--legal);
+	padding: 0 20px;
+}
