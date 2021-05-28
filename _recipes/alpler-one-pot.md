@@ -1,10 +1,15 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Älpler One-Pot"
 image: alpler-one-pot.jpg
-imagecredit: https://fooby.ch/de/rezepte/12476/aelpler-one-pot
-tags: meat, maincourse
+imagecrediturl: https://fooby.ch/de/rezepte/12476/aelpler-one-pot
+imagegcreditname: Fooby
+tags:
+- meat,
+- maincourse
+
+persons: 4
 
 ingredients:
 - 150 g pasta (macaroni is best)
