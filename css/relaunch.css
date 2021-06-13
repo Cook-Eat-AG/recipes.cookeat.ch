@@ -215,10 +215,10 @@ a:active {
 	.header {
 		grid-template-columns: 1fr 2fr;
 		grid-template-rows: auto repeat(2, minmax(min-content, 1fr));
-		grid-template-rows:
+		grid-template-areas:
 			"logo logo"
 			". title"
-			". subtitle";
+			"subtitle subtitle";
 	}
 }
 
@@ -226,12 +226,14 @@ a:active {
 	grid-area: title;
 	max-width: 412px;
 	text-align: center;
+	margin: 27px 0;
 }
 
 .header .paragraph {
 	grid-area: subtitle;
 	max-width: 903px;
 	text-align: center;
+	justify-self: center;
 }
 
 .search {
@@ -277,7 +279,7 @@ a:active {
 }
 
 .recipe {
-	margin: 0 30px 30px 0;
+	margin: 0 5px;
 }
 
 @media only screen and (min-width: 1024px) {

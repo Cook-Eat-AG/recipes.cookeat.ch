@@ -5,11 +5,12 @@
 	<div class="main-wrapper">
 		{% include header-relaunch.html %}
 
+		<form>
 		<section class="search">
-			<input type="text" class="search--input" name="search-input" placeholder="Suche nach einem Rezept"/>
+			<input type="text" id="search-input" class="search--input" name="search-input" placeholder="Suche nach einem Rezept"/>
 		</section>
-		
-		<main class="main">
+		</form>
+		<main id="results-container" class="main">
 			{% assign sorted = site.recipes | sort:"date" %}
 				{% for post in sorted %}
 					<div class="recipe">
@@ -24,44 +25,6 @@
 		</main>
 
 	{% include footer-relaunch.html %}
-	<script type="text/javascript" src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
-<script src="/plugins/simple-jekyll-search.min.js" type="text/javascript"></script>
-<script>
-SimpleJekyllSearch({
-searchInput: document.getElementById('search--input'),
-resultsContainer: document.getElementById('results-container'),
-json: '/search.json',
-	searchResultTemplate: '<div class="recipe"><a class="recipe__link" href="{url}"><img src=""/><h2
-	class="recipe__link--title">{post.title}</h2></a></div>'})
-</script>
-<script>
-	$( document ).ready(function() {
-	$(".item.recipes").click(function() {
-	$('#slider').removeClass().addClass('recipes');
-	$('.item').removeClass('active');
-	$(this).addClass('active');
-	
-	});
-	$(".item.search").click(function() {
-	$('#slider').removeClass().addClass('search');
-	$('.item').removeClass('active');
-	$(this).addClass('active');
-	
-	});
-	/*$(".item.books").click(function() {
-	$('#slider').removeClass().addClass('books');
-	$('.item').removeClass('active');
-	$(this).addClass('active');
-	
-	});
-	$(".item.updates").click(function() {
-	$('#slider').removeClass().addClass('blog');
-	$('.item').removeClass('active');
-	$(this).addClass('active');
-	
-	});*/
-	});
-</script>
 
 </body>
 </html>

@@ -1,0 +1,75 @@
+---
+layout: relaunchpage
+---
+<div class="recipe-wrapper">
+		<div class="recipe__header">
+			<!-- TODO: Replace this src with your FrontMatter Tag. ;) -->
+			<img src="https://placekitten.com/g/1440/475" alt="Image of a ready made {{ page.title }}" />	
+		</div>
+		<div class="recipe__header-title">
+			<h1 class="headline headline--h2">{{ page.title }}</h1>
+			<p class="paragraph paragraph--mid">Fotnachweis: <a href="{{ page.imagecrediturl }}">{{ page.imagecreditname }}</a></p>
+			<p class="paragraph paragraph--mid">Tags: 
+				{% for tag in page.tags %}
+					{{tag}} 
+				{% endfor %}
+			</p>
+		</div>
+
+		<div class="recipe__content">
+			<div class="recipe__content-left">
+				<h2 class="headline headline--h3">
+					{% if page.persons > 1	%}
+						Zutaten für {{ page.persons }} Personen
+						{% else %}
+						Zutaten für {{ page.persons }} Person
+					{% endif %}
+				</h2>
+
+				<ul class="recipe__ingredients">
+					{% for ingredient in page.ingredients %}
+						<li>{{ ingredient }}</li>
+					{% endfor %}
+				</ul>
+			</div>
+			<div class="recipe__content-right">
+				<h2 class="headline headline--h3">Anleitung</h2>
+				<ul class="recipe__instructions">
+					{% for instruction in page.directions %}
+					<li>{{ instruction }}</li>
+					{% endfor %}
+				</ul>
+			</div>
+		</div>
+
+		<div class="recipe__footer">
+			<a href="{{ site.baseurl }}">Zurück zur Rezeptliste</a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+
+  $(document).ready(function() {
+
+  jQuery.fn.clickToggle = function(a,b) {
+  var ab=[b,a];
+  function cb(){ ab[this._tog^=1].call(this); }
+  return this.on("click", cb);
+  };
+
+  	  $(".recipe__content > div > ul > li").append('<input type="checkbox">');
+  	  $(".recipe__content div > ul > li").clickToggle(function(){
+    $(this).children("input").prop('checked', true);
+    var height = $(this).height();
+    var y = $(window).scrollTop();
+    $('html, body').animate({scrollTop: y+height+16}, 200);
+  }, function(){
+    $(this).children("input").prop('checked', false);
+    var height = $(this).height();
+    var y = $(window).scrollTop();
+    $('html, body').animate({scrollTop: y-height-16}, 200);
+  });
+
+  });
+
+</script>
