@@ -284,12 +284,6 @@ a:active {
 	align-self: center;
 }
 
-@media only screen and (min-width: 1024px) {
-	.recipe:nth-of-type(3n) {
-		margin: 0 0 30px 0;
-	}
-}
-
 .recipe__link,
 .recipe__link--title {
 	font-size: 1.125rem;
@@ -312,6 +306,7 @@ a:active {
 	height: 100%;
 	border: none;
 	border-radius: 8px;
+	object-fit: cover;
 }
 
 .pre-footer {
