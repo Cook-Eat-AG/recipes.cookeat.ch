@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Loco Moco"
 image: loco-moco.jpg
 imagecredit: 

@@ -3,12 +3,11 @@ layout: relaunchpage
 ---
 <div class="recipe-wrapper">
 		<div class="recipe__header">
-			<!-- TODO: Replace this src with your FrontMatter Tag. ;) -->
-			<img src="https://placekitten.com/g/1440/475" alt="Image of a ready made {{ page.title }}" />	
+			<img src="/images/{{ page.image }}" alt="Image of a ready made {{ page.title }}" />	
 		</div>
 		<div class="recipe__header-title">
 			<h1 class="headline headline--h2">{{ page.title }}</h1>
-			<p class="paragraph paragraph--mid">Fotnachweis: <a href="{{ page.imagecrediturl }}">{{ page.imagecreditname }}</a></p>
+			<p class="paragraph paragraph--mid">Fotonachweis: <a href="{{ page.imagecrediturl }}">{{ page.imagecreditname }}</a></p>
 			<p class="paragraph paragraph--mid">Tags: 
 				{% for tag in page.tags %}
 					{{tag}} 

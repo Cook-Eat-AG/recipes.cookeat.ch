@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Bacon-Wrapped & Topped Burgers"
 image: bacon-wrapped-topped-burgers.jpg
 imagecredit: 

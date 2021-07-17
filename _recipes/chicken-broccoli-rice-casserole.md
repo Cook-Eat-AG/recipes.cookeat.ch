@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Chicken Broccoli Rice Casserole"
 image: chicken-broccoli-rice-casserole.jpg
 imagecredit: 

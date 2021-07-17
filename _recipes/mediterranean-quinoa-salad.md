@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Mediterranean Quinoa Salad"
 image: mediterranean-quinoa-salad.jpg
 imagecredit: http://laurencariscooks.com/mediterranean-quinoa-salad/

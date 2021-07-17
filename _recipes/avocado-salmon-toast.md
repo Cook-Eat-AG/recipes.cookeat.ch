@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Avocado Salmon Toast"
 image: avocado-salmon-toast.jpg
 imagecredit: 
