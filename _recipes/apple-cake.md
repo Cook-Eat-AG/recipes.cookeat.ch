@@ -1,10 +1,12 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Apple Cake"
 image: apple-cake.jpg
 imagecredit:
-tags: baking, dessert
+tags: 
+- baking
+- dessert
 
 ingredients:
 - 2 eggs

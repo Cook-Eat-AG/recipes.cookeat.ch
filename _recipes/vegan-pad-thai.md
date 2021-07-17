@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Vegan Pad Thai"
 image: vegan-pad-thai.jpg
 imagecredit: 

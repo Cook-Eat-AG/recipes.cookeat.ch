@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Summer Couscous with Chicken"
 image: chicken-summer-couscous.jpg
 imagecredit: 

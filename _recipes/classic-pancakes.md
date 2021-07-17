@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Classic Pancakes"
 image: classic-pancakes.jpg
 imagecredit: 

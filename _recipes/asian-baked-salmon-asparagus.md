@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Asian Baked Salmon with Asparagus"
 image: asian-baked-salmon-asparagus.jpg
 imagecredit: 

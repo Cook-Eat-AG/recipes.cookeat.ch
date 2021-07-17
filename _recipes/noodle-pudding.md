@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Noodle Pudding"
 image: noodle-pudding.jpg
 imagecredit:

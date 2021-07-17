@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "German Potato Salad"
 image: german-potato-salad.jpg 
 imagecredit: 

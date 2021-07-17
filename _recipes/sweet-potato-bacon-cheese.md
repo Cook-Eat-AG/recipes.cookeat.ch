@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Sweet Potato with Bacon & Cheese"
 image: sweet-potato-bacon-cheese.jpg
 imagecredit:

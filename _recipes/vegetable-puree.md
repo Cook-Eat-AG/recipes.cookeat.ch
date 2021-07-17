@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Vegetable Purée"
 image: vegetable-puree.jpg
 imagecredit: https://www.annabelkarmel.com/recipes/carrots-broccoli-cheese-puree/

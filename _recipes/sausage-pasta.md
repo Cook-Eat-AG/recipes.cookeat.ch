@@ -1,6 +1,6 @@
 ---
 
-layout: recipe
+layout: reciperelaunch
 title: "Sausage Pasta with Spinach in Tomato Sauce"
 image: sausage-pasta.jpg
 imagecredit:
