@@ -153,6 +153,30 @@ a:active {
 	border-radius: 4px;
 }
 
+.button--close {
+	position: absolute;
+	right: 38px;
+	top: 41px;
+	width: 100px;
+	height: 100px;
+	background: var(--white);
+	border-radius: 50%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+@media only screen and (max-width: 1024px) {
+	.button--close {
+		width: 50px;
+		height: 50px;
+	}
+
+	.logo--details img {
+		width: 50%;
+	}
+}
+
 .logo {
 	width: 120px;
 	height: 81px;
@@ -169,6 +193,12 @@ a:active {
 	justify-self: flex-end;
 	align-self: flex-end;
 	margin: 0 60px 30px 0;
+}
+
+.logo--details {
+	position: absolute;
+	top: 41px;
+	left: 38px;
 }
 
 .main-wrapper {
