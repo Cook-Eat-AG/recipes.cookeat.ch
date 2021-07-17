@@ -187,7 +187,7 @@ a:active {
 .logo--header {
 	grid: logo;
 	align-self: flex-start;
-	margin: 48px 0 0 60px;
+	margin: 41px 0 0 38px;
 }
 
 .logo--footer {
@@ -200,7 +200,7 @@ a:active {
 .logo--details {
 	position: absolute;
 	top: 41px;
-	left: 38px;
+	left: 58px;
 }
 
 .main-wrapper {
