@@ -45,16 +45,16 @@ body {
 
 a {
 	color: var(--grey);
-	text-decoration-line: underline;
+	text-decoration-line: none;
 	text-decoration-style: solid;
 	text-decoration-color: currentColor;
-	text-decoration-skip-ink: all;
+	text-decoration-skip-ink: auto;
 	text-decoration-thickness: 2px;
 }
 
 a:visited {
 	color: var(--black);
-	text-decoration-line: underline;
+	text-decoration-line: none;
 	text-decoration-style: solid;
 	text-decoration-color: currentColor;
 	text-decoration-skip-ink: auto;
@@ -63,8 +63,8 @@ a:visited {
 
 a:hover,
 a:active {
-	color: var(--blue);
-	text-decoration-line: underline;
+	color: var(--white);
+	text-decoration-line: none;
 	text-decoration-style: solid;
 	text-decoration-color: currentColor;
 	text-decoration-skip-ink: auto;
@@ -141,10 +141,12 @@ a:active {
 	color: var(--white);
 }
 
+
 .button--green {
 	background: var(--green);
 	color: var(--white);
 }
+
 
 .button--ghost {
 	background: var(--white);
@@ -292,7 +294,7 @@ a:active {
 	margin: 12px 0 0 0;
 	padding: 0 20px;
 	color: var(--grey);
-	text-decoration-line: underline;
+	text-decoration-line: none;
 	text-decoration-style: solid;
 	text-decoration-color: currentColor;
 	text-decoration-skip-ink: auto;
@@ -434,4 +436,18 @@ a:active {
 	grid-area: recipe-footer;
 	text-align: center;
 	margin: 25px auto 35px;
+}
+
+.recipe__footer--homelink {
+	font-size: 1.125rem;
+	line-height: 2rem;
+	font-weight: 500;
+	margin: 12px 0 0 0;
+	padding: 0 20px;
+	color: var(--grey);
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	text-decoration-color: currentColor;
+	text-decoration-skip-ink: auto;
+	text-decoration-thickness: 1px;
 }
