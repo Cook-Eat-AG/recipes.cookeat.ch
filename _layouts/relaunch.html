@@ -15,8 +15,7 @@
 				{% for post in sorted %}
 					<div class="recipe">
 						<a href="{{ post.url | prepend: site.baseurl }}" class="recipe__link">
-							<!-- TODO: Replace this src with FrontMatter -->
-							<img src="https://placekitten.com/420/227" class="recipe__link--image" />
+							<img src="/images/{{ post.image }}" class="recipe__link--image" />
 							<h2 class="recipe__link--title">{{ post.title }}</h2>
 						</a>
 					</div> 
