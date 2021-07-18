@@ -145,12 +145,10 @@ a:active {
 	color: var(--white);
 }
 
-
 .button--green {
 	background: var(--green);
 	color: var(--white);
 }
-
 
 .button--ghost {
 	background: var(--white);
@@ -473,11 +471,53 @@ a:active {
 	margin: 20px;
 }
 
-.recipe__ingredients--check
-.recipe__instructions--check {
-	/*please dear god help me style this checkbox*/
+input[type="checkbox"],
+.recipe__ingredients--check {
+	position: relative;
+	cursor: pointer;
 }
 
+input[type="checkbox"]:before,
+.recipe__ingredients--check:before {
+	content: "";
+	display: block;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	top: 0;
+	left: 0;
+	background-color: var(--white);
+	border: 1px solid #dfdddd;
+}
+
+input[type="checkbox"]:checked:before,
+.recipe__ingredients--check:checked:before {
+	content: "";
+	display: block;
+	position: absolute;
+	width: 18px;
+	height: 18px;
+	top: 0;
+	left: 0;
+	background-color: #dfdddd;
+}
+
+input[type="checkbox"]:checked:after,
+.recipe__ingredients--check:checked:after {
+	content: "✔";
+	display: block;
+	width: 5px;
+	height: 10px;
+	border: solid #dfdddd;
+	background: #dfdddd;
+	border-width: 0 1px 1px 0;
+	position: absolute;
+	color: #78a7b4;
+}
+
+label[for="ingredient"] {
+	margin-left: 10px;
+}
 
 .recipe__footer {
 	grid-area: recipe-footer;

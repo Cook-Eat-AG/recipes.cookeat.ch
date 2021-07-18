@@ -40,7 +40,7 @@ layout: relaunchpage
 
 				<ul class="recipe__ingredients">
 					{% for ingredient in page.ingredients %}
-						<li>{{ ingredient }}</li>
+					<li class="recipe__ingredients--checkbox"><label for="ingredient">{{ ingredient }}</label></li>
 					{% endfor %}
 				</ul>
 			</div>
@@ -70,8 +70,8 @@ layout: relaunchpage
   return this.on("click", cb);
   };
 
-  	$("ul li").prepend('<input class="recipe__ingredients--check recipe__instructions--check" type="checkbox">');
-    $("ul li").clickToggle(function(){
+  	$(".recipe__ingredients li").prepend('<input id="ingredient" class="recipe__ingredients--check" type="checkbox">');
+    $(".recipe__ingredients li").clickToggle(function(){
     $(this).children("input").prop('checked', true);
     var height = $(this).height();
     var y = $(window).scrollTop();
