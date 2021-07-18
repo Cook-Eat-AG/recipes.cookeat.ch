@@ -115,6 +115,10 @@ a:active {
 	font-size: 1.12rem;
 }
 
+.paragraph--mid a {
+	color: #78A7B4;
+}
+
 .paragraph--large {
 	font-size: 1.5rem;
 }
@@ -204,7 +208,7 @@ a:active {
 .logo--details {
 	position: absolute;
 	top: 41px;
-	left: 58px;
+	left: 38px;
 }
 
 .main-wrapper {
