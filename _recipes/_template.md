@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Ein schöner Titel"
 image: 
-imagecredit: https://www.pexels.com/@cookeat
+imagecrediturl: https://www.pexels.com/@cookeat
 imagegcreditname: Cook Eat auf Pexels
 tags: 
 - fisch
@@ -19,6 +19,8 @@ tags:
 - vegan
 - vegi
 - zuckerarm
+
+persons: 4
 
 ingredients:
 - 100 g Mehl (verstäubt)

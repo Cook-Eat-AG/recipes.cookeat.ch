@@ -3,10 +3,13 @@
 layout: reciperelaunch
 title: "Apple Cake"
 image: apple-cake.jpg
-imagecredit:
+imagecrediturl: https://fooby.ch/de/rezepte/12476/aelpler-one-pot
+imagegcreditname: Fooby
 tags: 
 - baking
 - dessert
+
+persons: 4
 
 ingredients:
 - 2 eggs

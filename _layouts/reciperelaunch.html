@@ -28,7 +28,7 @@ layout: relaunchpage
 					{% if page.persons > 1	%}
 						Zutaten für {{ page.persons }} Personen
 						{% else %}
-						Zutaten für {{ page.persons }} Person
+						Zutaten für 2 Personen
 					{% endif %}
 				</h2>
 
@@ -53,6 +53,7 @@ layout: relaunchpage
 		</div>
 	</div>
 </div>
+
 <script type="text/javascript">
 
   $(document).ready(function() {
@@ -63,8 +64,8 @@ layout: relaunchpage
   return this.on("click", cb);
   };
 
-  	  $(".recipe__content > div > ul > li").append('<input type="checkbox">');
-  	  $(".recipe__content div > ul > li").clickToggle(function(){
+  	$("ul li").prepend('<input class="recipe__ingredients--check recipe__instructions--check" type="checkbox">');
+    $("ul li").clickToggle(function(){
     $(this).children("input").prop('checked', true);
     var height = $(this).height();
     var y = $(window).scrollTop();

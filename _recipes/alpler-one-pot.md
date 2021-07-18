@@ -9,8 +9,6 @@ tags:
 - meat,
 - maincourse
 
-persons: 4
-
 ingredients:
 - 150 g pasta (macaroni is best)
 - 100 g potatoes (queen anne, annabelle, vitabella - as long as they retain their shape), in cubes

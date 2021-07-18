@@ -419,6 +419,8 @@ a:active {
 
 .recipe__header img {
 	width: 100%;
+	max-height: 475px;
+	object-fit: cover;
 }
 
 .recipe__header-title {
@@ -457,6 +459,7 @@ a:active {
 }
 
 .recipe__content-left {
+	min-width: 340px;
 	max-width: 340px;
 	margin: 20px;
 }
@@ -465,6 +468,12 @@ a:active {
 	max-width: 600px;
 	margin: 20px;
 }
+
+.recipe__ingredients--check
+.recipe__instructions--check {
+	/*please dear god help me style this checkbox*/
+}
+
 
 .recipe__footer {
 	grid-area: recipe-footer;
