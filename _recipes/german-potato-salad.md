@@ -3,7 +3,8 @@
 layout: reciperelaunch
 title: "German Potato Salad"
 image: german-potato-salad.jpg 
-imagecredit: 
+imagecrediturl:
+imagecreditname:
 tags: vegan, sidedish, weeknight
 
 ingredients:

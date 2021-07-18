@@ -5,7 +5,7 @@ title: "Apple Cake"
 image: apple-cake.jpg
 imagecrediturl:
 imagecreditname:
-tags: 
+tags: baking, dessert
 
 persons: 4
 

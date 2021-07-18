@@ -16,10 +16,10 @@ layout: relaunchpage
 		</div>
 		<div class="recipe__header-title">
 			<h1 class="headline headline--h2">{{ page.title }}</h1>
-			{% if page.imagecreditname == empty %}
+			{% if page.imagecreditname %}
 			<p class="paragraph paragraph--mid">Fotonachweis: <a target="_blank" href="{{ page.imagecrediturl }}">{{ page.imagecreditname }}</a></p>
 			{% endif %}
-			{% if page.tag > 1 %}
+			{% if page.tags %}
 			<p class="paragraph paragraph--mid">Tags: 
 				{% for tag in page.tags %}
 					{{tag}} 

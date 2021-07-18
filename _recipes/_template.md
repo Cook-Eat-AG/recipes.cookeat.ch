@@ -4,21 +4,21 @@ layout: reciperelaunch
 title: "Ein schöner Titel"
 image: 
 imagecrediturl: https://www.pexels.com/@cookeat
-imagegcreditname: Cook Eat auf Pexels
-tags: 
-- fisch
-- fleisch-
-- glutenfrei
-- halal
-- kosher
-- low carb
-- proteinreich
-- rohkost
-- salzarm
-- scharf
-- vegan
-- vegi
-- zuckerarm
+imagecreditname: Cook Eat auf Pexels
+tags:
+fisch,
+fleisch,
+glutenfrei,
+halal,
+kosher,
+low, carb
+proteinreich,
+rohkost,
+salzarm,
+scharf,
+vegan,
+vegi,
+zuckerarm
 
 persons: 4
 

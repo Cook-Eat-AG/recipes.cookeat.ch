@@ -3,7 +3,8 @@
 layout: reciperelaunch
 title: "Brussel Sprouts Purée"
 image: brussel-sprouts-puree.jpg
-imagecredit: https://sweetsoursavory.com/blog/2013/9/9/brussel-sprouts-pure
+imagecrediturl: https://sweetsoursavory.com/blog/2013/9/9/brussel-sprouts-pure
+imagecreditname: SweetSourSavoury
 tags: vegan, sidedish, vegetarian, weeknight
 
 ingredients:

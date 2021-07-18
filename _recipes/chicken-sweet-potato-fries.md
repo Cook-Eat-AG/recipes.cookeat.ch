@@ -3,7 +3,8 @@
 layout: reciperelaunch
 title: "Chicken & Sweet Potato Fries"
 image: chicken-sweet-potato-fries.jpg
-imagecredit:
+imagecrediturl:
+imagecreditname:
 tags: meat, maincourse, weeknight
 
 ingredients:

@@ -3,7 +3,8 @@
 layout: reciperelaunch
 title: "Sweet Potato with Bacon & Cheese"
 image: sweet-potato-bacon-cheese.jpg
-imagecredit:
+imagecrediturl:
+imagecreditname:
 tags: meat, maincourse, weeknight
 
 ingredients:
