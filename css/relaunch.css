@@ -63,6 +63,10 @@ a:active {
 	text-decoration-thickness: 2px;
 }
 
+.page-content {
+	background-color: var(--white);
+}
+
 .headline {
 	font-family: "Ubuntu", sans-serif;
 	color: var(--black);
@@ -99,7 +103,8 @@ a:active {
 
 .paragraph--small {
 	font-weight: 700;
-	font-size: 0.75rem;
+	color: var(--black);
+	font-size: 0.875rem;
 	line-height: 2rem;
 }
 
@@ -396,18 +401,19 @@ a:active {
 
 .footer-legal {
 	background: var(--legal);
-	padding: 0 20px;
+	padding: 10px 0px 10px 60px ;
 }
 
-.recipe-wrapper {
-	display: grid;
-	grid-template-columns: 1fr;
-	grid-template-rows: 475fr repeat(3, auto);
-	grid-template-areas:
-		"recipe-header"
-		"recipe-title"
-		"recipe-content"
-		"recipe-footer";
+.recipe__wrapper {
+    min-height: 97.1vh;
+    display: grid;
+    grid-template-columns: 1fr; 
+    grid-template-rows: repeat(2, auto) 1fr auto;
+    grid-template-areas: 
+        "recipe-header"
+        "recipe-title"
+        "recipe-content"
+        "recipe-footer";
 }
 
 .recipe__header {
@@ -517,7 +523,7 @@ label[for="ingredient"] {
 .recipe__footer {
 	grid-area: recipe-footer;
 	text-align: center;
-	margin: 25px auto 115px;
+	margin: 55px auto 115px;
 }
 
 .recipe__footer--homelink {

@@ -1,7 +1,7 @@
 ---
 layout: relaunchpage
 ---
-<div class="recipe-wrapper">
+<div class="recipe__wrapper">
 	<div class="logo logo--details">
 		<img src="../assets/cookeat-logo.svg" alt="Das Logo von cookeat.ch">
 	</div>
@@ -28,34 +28,36 @@ layout: relaunchpage
 			{% endif %}
 		</div>
 
-		<div class="recipe__content">
-			<div class="recipe__content-left">
-				<h2 class="headline headline--h3">
-					{% if page.persons > 1%}
-						Zutaten für {{ page.persons }} Personen
-						{% else %}
-						Zutaten für 2 Personen
-					{% endif %}
-				</h2>
+		<div>
+			<div class="recipe__content">
+				<div class="recipe__content-left">
+					<h2 class="headline headline--h3">
+						{% if page.persons > 1%}
+							Zutaten für {{ page.persons }} Personen
+							{% else %}
+							Zutaten für 2 Personen
+						{% endif %}
+					</h2>
 
-				<ul class="recipe__ingredients">
-					{% for ingredient in page.ingredients %}
-					<li class="recipe__ingredients--checkbox"><label for="ingredient">{{ ingredient }}</label></li>
-					{% endfor %}
-				</ul>
+					<ul class="recipe__ingredients">
+						{% for ingredient in page.ingredients %}
+						<li class="recipe__ingredients--checkbox"><label for="ingredient">{{ ingredient }}</label></li>
+						{% endfor %}
+					</ul>
+				</div>
+				<div class="recipe__content-right">
+					<h2 class="headline headline--h3">Anleitung</h2>
+					<ul class="recipe__instructions">
+						{% for instruction in page.directions %}
+						<li>{{ instruction }}</li>
+						{% endfor %}
+					</ul>
+				</div>
 			</div>
-			<div class="recipe__content-right">
-				<h2 class="headline headline--h3">Anleitung</h2>
-				<ul class="recipe__instructions">
-					{% for instruction in page.directions %}
-					<li>{{ instruction }}</li>
-					{% endfor %}
-				</ul>
-			</div>
-		</div>
 
-		<div class="recipe__footer">
-			<a class="recipe__footer--homelink" href="/">Zurück zur Rezeptliste</a>
+			<div class="recipe__footer">
+				<a class="recipe__footer--homelink" href="/">Zurück zur Rezeptliste</a>
+			</div>
 		</div>
 	</div>
 </div>
