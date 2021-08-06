@@ -183,9 +183,12 @@ a:active {
 }
 
 .logo--header {
-	grid: logo;
 	align-self: flex-start;
 	margin: 41px 0 0 38px;
+}
+
+.logo--header img {
+	max-width: 100%;
 }
 
 .logo--footer {
