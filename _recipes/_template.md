@@ -11,7 +11,7 @@ fleisch,
 glutenfrei,
 halal,
 kosher,
-low, carb
+low carb,
 proteinreich,
 rohkost,
 salzarm,

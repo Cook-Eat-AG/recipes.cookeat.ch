@@ -428,14 +428,12 @@ a:active {
 
 .recipe__header-title {
 	grid-area: recipe-title;
-	margin: 25px auto 35px;
+	margin: 40px auto 35px;
 	text-align: center;
 }
 
-@media only screen and (min-width: 768px) {
-	.recipe__header-title {
-		margin: 65px auto 75px;
-	}
+.recipe__header-title h1 {
+	color: #45423B;
 }
 
 .recipe__content {
@@ -459,6 +457,10 @@ a:active {
 
 .recipe__content ul li {
 	margin-bottom: 20px;
+}
+
+.recipe__content-header {
+	margin: 0 auto 24px;
 }
 
 .recipe__content-left {

@@ -31,7 +31,7 @@ layout: relaunchpage
 		<div>
 			<div class="recipe__content">
 				<div class="recipe__content-left">
-					<h2 class="headline headline--h3">
+					<h2 class="headline headline--h3 recipe__content-header">
 						{% if page.persons > 1%}
 							Zutaten für {{ page.persons }} Personen
 							{% else %}
@@ -46,7 +46,7 @@ layout: relaunchpage
 					</ul>
 				</div>
 				<div class="recipe__content-right">
-					<h2 class="headline headline--h3">Anleitung</h2>
+					<h2 class="headline headline--h3 recipe__content-header">Anleitung</h2>
 					<ul class="recipe__instructions">
 						{% for instruction in page.directions %}
 						<li>{{ instruction }}</li>
