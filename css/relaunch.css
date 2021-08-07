@@ -7,7 +7,7 @@
 	--blue: #78a7b4;
 	--grey: #45423b;
 	--brownish-grey: #78a7b4;
-	--light-grey: #f2efef;
+	--light-grey: #e6dede;
 	--brown-grey: #d6cdbe;
 
 	--background: #e5e5e5;
@@ -279,6 +279,14 @@ a:active {
 	flex-flow: row nowrap;
 	justify-content: center;
 	align-items: center;
+	position: relative;
+}
+
+.search img {
+	position: absolute;
+	left: 70px;
+	top: 84px;
+	z-index: 1;
 }
 
 .search--input {
@@ -289,7 +297,7 @@ a:active {
 	background: var(--light-grey);
 	border: none;
 	border-radius: 100px;
-	padding: 32px 36px;
+	padding: 32px 36px 32px 101px;
 	font-size: 1.5rem;
 	line-height: 2rem;
 	font-weight: 400;
@@ -304,6 +312,11 @@ a:active {
 	width: 0.5em;
 	height: 0.5em;
 	position: absolute;
+}
+
+.search--input::placeholder {
+  color: var(--black);
+  opacity: 1;
 }
 
 .main {
