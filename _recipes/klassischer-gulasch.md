@@ -11,18 +11,17 @@ tags: fleisch, glutenfrei, low carb, proteinreich, zuckerarm
 persons: 5
 
 ingredients:
-- 750g Schweinefleisch für Gulasch
+- 750 g Schweinefleisch für Gulasch
 - 8 Scharlotten
 - 5 Karotten
 - 2 Zimtstangen
 - 5 Wacholderbeeren
 - 3 getrocknete Lorbeerblätter
-- 5EL Öl
-- 2EL Butter
-- 125ml Rotwein (trocken)
-- 500ml Rinderbrühe
-- Salz
-- 625g Champignons (weiss)
+- 5 EL Öl
+- 2 EL Butter
+- 125 ml Rotwein (trocken)
+- 500 ml Rinderbrühe
+- 625 g Champignons (weiss)
 
 
 directions:

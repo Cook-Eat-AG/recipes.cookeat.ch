@@ -11,17 +11,16 @@ tags: salzarm, vegi
 persons: 5
 
 ingredients:
-- 300g Mehl
-- 120g Zucker
+- 300 g Mehl
+- 120 g Zucker
 - 1 Ei
-- 170g Butter (kalt)
-- 400g Mandelblättchen
-- 4EL Wasser
+- 170 g Butter (kalt)
+- 400 g Mandelblättchen
+- 4 EL Wasser
 - 1 Päckchen Vanillezucker oder 1 TL Vanillepaste
-- 170g Butter
-- 130g Puderzucker
-- 280g Aprikosenkonfitüre
-- 1 Prise Salz
+- 170 g Butter
+- 130 g Puderzucker
+- 280 g Aprikosenkonfitüre
 
 directions:
 - Zuerst aus 300g Mehl, 120g Zucker, einem Ei und 170g kalter Butter einen Mürbteig kneten.

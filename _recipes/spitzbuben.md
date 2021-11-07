@@ -11,15 +11,14 @@ tags: proteinreich, salzarm, vegi
 persons: 5
 
 ingredients:
-- 300g Mehl (gesiebt)
-- 100g Mandeln (gemahlen)
-- 150g Puderzucker
+- 300 g Mehl (gesiebt)
+- 100 g Mandeln (gemahlen)
+- 150 g Puderzucker
 - 1 Vanilleschote (ausgekratzt)
-- 200g Butter
+- 200 g Butter
 - Zitronenschale (fein abgekratzt)
 - 1 Ei
-- 200g Gelee (glattgerührt)
-- 1 Prise Salz
+- 200 g Gelee (glattgerührt)
 
 directions:
 - Mehl mit Mandeln, Puderzucker, Vanille und Salz mischen. 

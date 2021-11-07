@@ -11,7 +11,7 @@ tags: low carb, scharf, vegan, vegi, zuckerarm
 persons: 5
 
 ingredients:
-- 400g Artischockenherzen aus der Dose
+- 400 g Artischockenherzen aus der Dose
 - 5 reife Tomaten, geviertelt
 - 2 kleine Zwiebeln, grob gewürfelt
 - 6 Knoblauchzehen, geschält
