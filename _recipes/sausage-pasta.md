@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Sausage Pasta with Spinach in Tomato Sauce"
 image: sausage-pasta.jpg
+permalink: sausage-pasta.html
 imagecrediturl:
 imagecreditname:
 tags: meat, maincourse, weeknight

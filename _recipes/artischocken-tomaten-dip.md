@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Artischocken-Tomaten-Dip"
 image: artischocken-tomaten-dip.jpg
+permalink: artischocken-tomaten-dip.html
 imagecrediturl: https://unsplash.com/photos/ufs4w3Jn73I
 imagecreditname: Melissa Walker Horn
 tags: low carb, scharf, vegan, vegi, zuckerarm

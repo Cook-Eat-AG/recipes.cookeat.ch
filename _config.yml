@@ -1,7 +1,7 @@
 # Site settings
-title: BBYNOMNOM
-email: matthewbrandt@gmail.com
-description: Our recipe repository :)
+title: Cook Eat Rezepte
+email: info@cookeat.ch
+description: Einfache, leckere Rezepte für alle!
 baseurl: ""
 language: "en"
 lang_direction: "ltr"
@@ -9,8 +9,6 @@ color: "#83E3C5"
 
 # Build settings
 markdown: kramdown
-
-permalink: /:title:output_ext
 
 collections:
   components:

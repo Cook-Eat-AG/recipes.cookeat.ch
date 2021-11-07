@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Apple Cake"
 image: apple-cake.jpg
+permalink: apple-cake.html
 imagecrediturl:
 imagecreditname:
 tags: baking, dessert

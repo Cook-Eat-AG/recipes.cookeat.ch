@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Green Smoothie"
 image: green-smoothie.jpg
+permalink: green-smoothie.html
 imagecrediturl: https://unsplash.com/photos/sTPy-oeA3h0
 imagecreditname: Dose Juice auf unsplash
 tags: glutenfrei, low carb, rohkost, salzarm, vegan, vegi

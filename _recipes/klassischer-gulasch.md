@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Klassischer Gulasch"
 image: klassischer-gulasch.jpg
+permalink: klassischer-gulasch.html
 imagecrediturl: https://unsplash.com/photos/JXYdIWqA5IM
 imagecreditname: Nathan Dumlao
 tags: fleisch, glutenfrei, low carb, proteinreich, zuckerarm

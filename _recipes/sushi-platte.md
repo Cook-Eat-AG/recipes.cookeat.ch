@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Sushi Platte"
 image: sushi-platte.jpg
+permalink: sushi-platte.html
 imagecrediturl: https://unsplash.com/photos/sl5exRJYXuI
 imagecreditname: Luigi Pozzoli
 tags: fisch, glutenfrei, proteinreich
