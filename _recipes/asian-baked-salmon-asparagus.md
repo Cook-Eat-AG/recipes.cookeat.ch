@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Asian Baked Salmon with Asparagus"
 image: asian-baked-salmon-asparagus.jpg
+permalink: asian-baked-salmon-asparagus
 imagecrediturl:
 imagecreditname:
 tags: maincourse, fish, weeknight

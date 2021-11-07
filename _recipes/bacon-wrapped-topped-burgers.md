@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Bacon-Wrapped & Topped Burgers"
 image: bacon-wrapped-topped-burgers.jpg
+permalink: bacon-wrapped-topped-burgers
 imagecrediturl:
 imagecreditname:
 tags: maincourse, meat

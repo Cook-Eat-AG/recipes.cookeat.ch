@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Asparagus with Egg & Bacon"
 image: asparagus-egg-bacon.jpg
+permalink: asparagus-egg-bacon
 imagecrediturl:
 imagecreditname:
 tags: maincourse, meat, weeknight

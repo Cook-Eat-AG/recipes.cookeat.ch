@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Mandelecken"
 image: mandelecken.jpg
+permalink: mandelecken
 imagecrediturl: https://www.pexels.com/photo/almonds-biscuit-biscuits-christmas-cookies-768888/
 imagecreditname: Cook Eat auf Pexels
 tags: salzarm, vegi

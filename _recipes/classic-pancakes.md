@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Classic Pancakes"
 image: classic-pancakes.jpg
+permalink: classic-pancakes
 imagecrediturl:
 imagecreditname:
 tags: vegetarian, brunch, breakfast

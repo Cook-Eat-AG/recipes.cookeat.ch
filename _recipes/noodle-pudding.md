@@ -3,6 +3,7 @@
 layout: reciperelaunch
 title: "Noodle Pudding"
 image: noodle-pudding.jpg
+permalink: noodle-pudding
 imagecrediturl:
 imagecreditname:
 tags: baking, dessert
