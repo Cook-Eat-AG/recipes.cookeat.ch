@@ -11,13 +11,13 @@ tags: fleisch, low carb, scharf
 persons: 5
 
 ingredients:
-- 1TL Grüne Currypaste
-- 1EL 100% Kokosöl
-- 500g Poulet (fein würfeln)
-- 500ml Kokosmilch (light)
+- 1 TL Grüne Currypaste
+- 1 EL 100% Kokosöl
+- 500 g Poulet (fein würfeln)
+- 500 ml Kokosmilch (light)
 - 1 roter Spitzpaprika
 - 2 Frühlingszwiebeln (längs geschnitten)
-- 500g Spaghetti
+- 500 g Spaghetti
 
 
 directions:

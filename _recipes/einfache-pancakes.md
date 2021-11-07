@@ -11,12 +11,12 @@ tags: proteinreich, salzarm, vegi
 persons: 4
 
 ingredients:
-- 750g Weizenmehl (Type 405)
-- 6EL Zucker
-- 2TL Backpulver (Weinstein)
+- 750 g Weizenmehl (Type 405)
+- 6 EL Zucker
+- 2 TL Backpulver (Weinstein)
 - 3 Prise Salz
 - 6 Eier (Gr. M)
-- 600ml Milch
+- 600 ml Milch
 - Öl (zum Braten)
 - Ahornsirup oder was man gerne drauf mag.
 

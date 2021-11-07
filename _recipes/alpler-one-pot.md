@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Älpler One-Pot"
 image: alpler-one-pot.jpg
-permalink: älpler-one-pot.html
+permalink: aelpler-one-pot.html
 imagecrediturl: https://fooby.ch/de/rezepte/12476/aelpler-one-pot
 imagecreditname: Fooby
 tags: meat, maincourse

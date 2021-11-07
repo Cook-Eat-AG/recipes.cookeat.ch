@@ -11,11 +11,10 @@ tags: fisch, glutenfrei, proteinreich
 persons: 5
 
 ingredients:
-- 400g Sushi-Reis
-- 6dl Wasser
-- 1dl Reisessig
-- 1EL Zucker
-- Salz
+- 400 g Sushi-Reis
+- 6 dl Wasser
+- 1 dl Reisessig
+- 1 EL Zucker
 - 10 Nori-Algen-Blätter
 - eingelegter Ingwer
 - Wasabi
@@ -23,8 +22,8 @@ ingredients:
 - Gurke (in Streifen)
 - 2 Avocados (in Streifen)
 - Karotten (in ganz dünnen Streifen)
-- 200g Thunfisch in Sashimi-Qualität (in Streifen)
-- 200g Lachs in Sashimi-Qualität (in Streifen)
+- 200 g Thunfisch in Sashimi-Qualität (in Streifen)
+- 200 g Lachs in Sashimi-Qualität (in Streifen)
 
 
 directions:

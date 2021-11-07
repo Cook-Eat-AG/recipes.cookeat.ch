@@ -11,7 +11,7 @@ tags: glutenfrei, low carb, rohkost, salzarm, vegan, vegi
 persons: 5
 
 ingredients:
-- 175g Spinat (frisch)
+- 175 g Spinat (frisch)
 - 2 Stange Sellerie
 - 1 Gurke
 - 2 Bananen
@@ -20,7 +20,7 @@ ingredients:
 - 2 Äpfel
 - 2 Stk. Ingwer (Daumengross)
 - 1 Bd. Minze
-- 300ml Wasser oder Kokoswasser
+- 300 ml Wasser oder Kokoswasser
 
 directions:
 - Alles waschen, schälen und mixer-klein schneiden.

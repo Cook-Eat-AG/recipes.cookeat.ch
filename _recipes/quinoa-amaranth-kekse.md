@@ -11,12 +11,11 @@ tags: glutenfrei, salzarm, vegi
 persons: 5
 
 ingredients:
-- 80g Quinoa gepufft
-- 80g Amaranth gepufft
+- 80 g Quinoa gepufft
+- 80 g Amaranth gepufft
 - 4 Eier
-- 4EL Kakaopulver
-- 4EL Reissirup
-- 2 Prisen Salz
+- 4 EL Kakaopulver
+- 4 EL Reissirup
 
 directions:
 - Ofen auf 180°C Ober - und Unterhitze vorheizen.
