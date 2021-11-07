@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Quinoa-Amaranth-Kekse"
 image: quinoa-amaranth-kekse.jpg
-permalink: quinoa-amaranth-kekse
+permalink: quinoa-amaranth-kekse.html
 imagecrediturl: https://unsplash.com/photos/eJZgJXI_TCc
 imagecreditname: Tyler Nix
 tags: glutenfrei, salzarm, vegi

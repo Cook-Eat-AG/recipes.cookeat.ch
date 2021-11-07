@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Avocado Salmon Toast"
 image: avocado-salmon-toast.jpg
-permalink: avocado-salmon-toast
+permalink: avocado-salmon-toast.html
 imagecrediturl:
 imagecreditname:
 tags: breakfast, brunch, fish

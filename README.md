@@ -11,9 +11,7 @@ Everything is run in Docker for ease of not having to install anything. The dock
 # Writing a Recipe
 
 The recipes are stored in the collection "Recipes" (the folder /_recipes).
-
 They are written in Markdown and contain a few special sections:
-
 - The frontmatter, which contains:
  - Title, Image, and Layout (which is "recipe")
  - Ingredients (a list of things in the dish)

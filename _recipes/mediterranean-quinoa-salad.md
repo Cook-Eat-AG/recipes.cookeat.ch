@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Mediterranean Quinoa Salad"
 image: mediterranean-quinoa-salad.jpg
-permalink: mediterranean-quinoa-salad
+permalink: mediterranean-quinoa-salad.html
 imagecrediturl: http://laurencariscooks.com/mediterranean-quinoa-salad/
 imagecreditname: Lauren Caris Cooks
 tags: vegan, maincourse, vegetarian, weeknight, lunch

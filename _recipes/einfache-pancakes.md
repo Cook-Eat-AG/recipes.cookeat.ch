@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Einfache Pancakes"
 image: einfache-pancakes.jpg
-permalink: einfache-pancakes
+permalink: einfache-pancakes.html
 imagecrediturl: https://unsplash.com/photos/z3VYXRlOXxU
 imagecreditname: David Karimzadeh
 tags: proteinreich, salzarm, vegi

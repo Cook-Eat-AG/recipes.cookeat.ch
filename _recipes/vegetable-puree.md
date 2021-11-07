@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Vegetable Purée"
 image: vegetable-puree.jpg
-permalink: vegetable-puree
+permalink: vegetable-puree.html
 imagecrediturl: https://www.annabelkarmel.com/recipes/carrots-broccoli-cheese-puree/
 imagecreditname: Annabel Karmel
 tags: sidedish, vegetarian

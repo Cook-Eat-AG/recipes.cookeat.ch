@@ -2,8 +2,8 @@
 
 layout: reciperelaunch
 title: "Ein schöner Titel"
-image:
-permalink: recipe-name
+image: recipe-image.jpg
+permalink: recipe-title.html
 imagecrediturl: https://www.pexels.com/@cookeat
 imagecreditname: Cook Eat auf Pexels
 tags:

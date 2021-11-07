@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Summer Couscous with Chicken"
 image: chicken-summer-couscous.jpg
-permalink: chicken-summer-couscous
+permalink: chicken-summer-couscous.html
 imagecrediturl:
 imagecreditname:
 tags: maincourse, meat, weeknight

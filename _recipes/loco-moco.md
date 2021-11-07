@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Loco Moco"
 image: loco-moco.jpg
-permalink: loco-moco
+permalink: loco-moco.html
 imagecrediturl:
 imagecreditname:
 tags: maincourse, meat, weeknight

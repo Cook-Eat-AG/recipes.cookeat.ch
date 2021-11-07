@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Spitzbuben"
 image: spitzbuben.jpg
-permalink: spitzbuben
+permalink: spitzbuben.html
 imagecrediturl: https://www.pexels.com/photo/heart-shaped-cookies-on-blue-surface-776860/
 imagecreditname: Cook Eat auf Pexels
 tags: proteinreich, salzarm, vegi

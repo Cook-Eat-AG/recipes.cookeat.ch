@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Vegan Pad Thai"
 image: vegan-pad-thai.jpg
-permalink: vegan-pad-thai
+permalink: vegan-pad-thai.html
 imagecrediturl:
 imagecreditname:
 tags: vegan, maincourse, vegetarian, weeknight, lunch

@@ -3,7 +3,7 @@
 layout: reciperelaunch
 title: "Mexican Style Sweet Potato"
 image: mexican-style-sweet-potato.jpg
-permalink: mexican-style-sweet-potato
+permalink: mexican-style-sweet-potato.html
 imagecrediturl:
 imagecreditname:
 tags: vegetarian, maincourse, weeknight
