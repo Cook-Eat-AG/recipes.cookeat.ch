@@ -5,7 +5,7 @@ services:
     image: jekyll/jekyll:latest
     restart: always
     container_name: recipescookeatch
-    command: jekyll serve --watch --trace
+    command: jekyll serve --watch --livereload
     ports:
       - 4000:4000
     volumes:
