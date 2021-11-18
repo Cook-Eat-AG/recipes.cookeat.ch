@@ -2,7 +2,7 @@
 
 A simple, recipe database for everyone, based (loosely) on [http://chowdown.io](http://chowdown.io). Thanks a lot for the great work Clark!
 
-#Development locally
+# Development locally
 Everything is run in Docker for ease of not having to install anything. The docker-compose.yml is optimised for a MacOS install, some changes may need to be made for Windows/Linux.
 - Install Docker (if not already done)
 - Open the directory where you pulled the github repository to and run "docker compose up"
