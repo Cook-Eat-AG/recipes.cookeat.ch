@@ -28,8 +28,7 @@ directions:
 - Forme zwei ovale Burger. Die Oberseite sollte etwas gerundet aussehen. Dann die Burger für mindestens 30 Min. in den Kühlschrank tun. 
 - In einer grossen Pfanne etwas Olivenöl auf mittlere Hitze erhitzen und die Burger darin platzieren. Mit dem Daumen in der Mitte eindrücken, damit sie nicht verwölben. Burger etwa 5 Min. braten. Nicht umdrehen bis die Unterseite braun ist. Pfanne abdecken und weitere 5 Min. braten bis die Burger gut durch sind. 
 - Spiegeleier braten.
-- Für die Bratensauce - etwas Olivenöl erhitzen und die Zwiebeln hinein mischen. Die Bouillon, Worcestershire Sauce und Soya Sauce hinzugeben. Alles köcheln lassen, bis die Sauce dickflüssig ist. 
-- Serve steamed rice on individual plates. Transfer the patties to the plates, pour the gravy, and top with a fried egg. Serve immediately.
+- Für die Bratensauce - etwas Olivenöl erhitzen und die Zwiebeln hinein mischen. Die Bouillon, Worcestershire Sauce und Soya Sauce hinzugeben. Alles köcheln lassen, bis die Sauce dickflüssig ist.
 - Reis auf Teller verteilen. Burger und Ei oben drauf tun, Bratensauce hinzu geben und sofort servieren.
 
 ---

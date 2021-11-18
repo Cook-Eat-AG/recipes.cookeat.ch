@@ -25,7 +25,7 @@ directions:
 - Öl in eine Pfanne geben und auf mittlerer Stufe erhitzen. Je 2 EL Teig in die Pfanne geben (ca. 10 cm Ø)
 - ca. 2 Minuten ausbacken, wenden und von der anderen Seite ausbacken.
 - Mit Ahornsirup, Marmelade oder Nutella servieren.
-- Fototipp - Auftürmen, mit Puderzucker bestäuben, Ahornsirup drüber laufen lassen und bei Tageslicht mit einem einfarbigen Hintergrund fotografieren.
+- Foto-Tipp - Auftürmen, mit Puderzucker bestäuben, Ahornsirup drüber laufen lassen und bei Tageslicht mit einem einfarbigen Hintergrund fotografieren.
 
 ---
 

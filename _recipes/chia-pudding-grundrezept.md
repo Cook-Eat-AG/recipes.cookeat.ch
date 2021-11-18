@@ -21,7 +21,7 @@ directions:
 - In den ersten 15 Min. ab und an umrühren, damit sich kleine Klumpfen bilden.
 - Mind. 2 Stunden in den Kühlschrank stellen.
 - Nach Geschmack mit Gewürzen und Süßungsmittel verfeinern und mit Obst, Haferflocken, Nüssen ergänzen oder einfach so genießen.
-- Fototipp - alle Gläschen zusammen auf ein Tablett und bei Tageslicht fotografieren.
+- Foto-Tipp - alle Gläschen zusammen auf ein Tablett und bei Tageslicht fotografieren.
 
 ---
 

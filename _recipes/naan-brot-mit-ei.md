@@ -28,7 +28,7 @@ directions:
 - Eine Antihaftpfanne auf mittlerer Stufe erhitzen und mit etwas Öl bepinseln. 
 - Jedes Fladenbrot etwa 2-3 Minuten lang ausbacken oder bis sich Blasen bilden und die Ränder etwas trocken aussehen. Dann umdrehen und weitere 2-3 Minuten goldbraun ausbacken. 
 - Die Eier zerschneiden und mit etwas Kräuter-Quark, Salz, Pfeffer frischen Kräutern nach Geschmack belegen.
-- Fototipp - Brote auf einen Teller, Teller auf ein Tablett stellen und bei Tageslicht fotografieren.
+- Foto-Tipp - Brote auf einen Teller, Teller auf ein Tablett stellen und bei Tageslicht fotografieren.
 
 ---
 
