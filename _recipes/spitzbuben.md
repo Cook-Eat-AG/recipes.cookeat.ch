@@ -5,7 +5,7 @@ title: "Spitzbuben"
 image: spitzbuben.jpg
 permalink: spitzbuben.html
 imagecrediturl: https://www.pexels.com/photo/heart-shaped-cookies-on-blue-surface-776860/
-imagecreditname: Cook Eat auf Pexels
+imagecreditname: Cook Eat
 tags: proteinreich, salzarm, vegi
 
 persons: 5
@@ -27,7 +27,7 @@ directions:
 - Teig durchkneten und zu einem Rechteck ausrollen. Plätzchen ausstechen und in jedes zweite kleine Sterne oder Löcher stechen. 
 - Im vorgeheizten Backofen, auf mittlerer Schiene backen, bis die Ränder goldbraun werden (10-12 Min.).
 - Die warmen Plätzchen ohne Loch mit Gelee bestreichen und mit einem ausgestanzten Plätzchen bedecken.
-- Fototipp - Auf ein kaltes Blech legen und mit etwas Puderzucker bestäuben und bei Tageslicht (z.B. am Fenster) Fotos machen. Mit den tollen Bildern am besten gleich auf cookeat.ch zum Teilen anbieten.
+- Foto-Tipp - Auf ein kaltes Blech legen und mit etwas Puderzucker bestäuben und bei Tageslicht (z.B. am Fenster) Fotos machen. Mit den tollen Bildern am besten gleich auf cookeat.ch zum Teilen anbieten.
 
 ---
 

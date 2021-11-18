@@ -5,7 +5,7 @@ title: "Mandelecken"
 image: mandelecken.jpg
 permalink: mandelecken.html
 imagecrediturl: https://www.pexels.com/photo/almonds-biscuit-biscuits-christmas-cookies-768888/
-imagecreditname: Cook Eat auf Pexels
+imagecreditname: Cook Eat
 tags: salzarm, vegi
 
 persons: 5
@@ -29,7 +29,7 @@ directions:
 - Als nächstes, den durchgekühlten Mürbteig auf einem Blech auswellen. Erst mit Aprikosen Konfitüre dann mit der Mandelmasse gleichmässig bestreichen.
 - Bei 170°C Ober-/Unterhitze für 20-25 Minuten in den vorgeheizten Backofen bis alles Goldgelb gebacken ist.
 - Portionieren bevor sie auskühlen. Dann ganz auskühlen lassen, bevor Du sie mit Zitronenschlangen oder Schokolade verzierst.
-- Fototip - Auftürmen und bei Tageslicht mit einem einfarbigen Hintergrund fotografieren.
+- Foto-Tipp - Auftürmen und bei Tageslicht mit einem einfarbigen Hintergrund fotografieren.
 
 ---
 

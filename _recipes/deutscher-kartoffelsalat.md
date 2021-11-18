@@ -1,9 +1,9 @@
 ---
 
 layout: reciperelaunch
-title: "Deutsches Kartoffelsalat"
-image: deutsches-kartoffelsalat.jpg 
-permalink: deutsches-kartoffelsalat.html
+title: "Deutscher Kartoffelsalat"
+image: deutscher-kartoffelsalat.jpg 
+permalink: deutscher-kartoffelsalat.html
 imagecrediturl: https://food52.com/recipes/81272-healthy-vegan-german-potato-salad
 imagecreditname: Food52
 tags: vegan

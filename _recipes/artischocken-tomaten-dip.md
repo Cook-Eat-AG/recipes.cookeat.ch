@@ -25,7 +25,7 @@ ingredients:
 
 
 directions:
-- Ofen auf 180° vorheizen
+- Ofen auf 180°C vorheizen
 - Schmeiss Artischockenherzen, Tomaten, Zwiebeln, Knoblauchzehen, Chillis, Öl, Salz und Kreuzkümmel zusammen in eine grosse Schüssel und mische alles gut.
 - Verteile alles auf 1-2 Bleche möglichst flach und backe das ganze bis es fein schmöckt und die Ecken der Zwiebeln und Tomaten dunkel werden.
 - Lass alles etwas auskühlen und schieb es vom Blech direkt in den Mixer.
