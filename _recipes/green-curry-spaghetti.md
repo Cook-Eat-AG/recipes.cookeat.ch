@@ -5,7 +5,7 @@ title: "Green Curry Spaghetti"
 image: green-curry-spaghetti.jpg
 permalink: green-curry-spaghetti.html
 imagecrediturl: https://www.pexels.com/photo/asian-food-chicken-cooking-curry-776873/
-imagecreditname: Cook Eat auf Pexels
+imagecreditname: Cook Eat
 tags: fleisch, low carb, scharf
 
 persons: 5

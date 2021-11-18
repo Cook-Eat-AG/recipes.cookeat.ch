@@ -21,9 +21,9 @@ directions:
 - Ofen auf 180°C Ober - und Unterhitze vorheizen.
 - Alle Zutaten miteinander mischen, bis die Masse fest zusammenklebt (Reissirup hinzufügen falls es nicht genug klebt).
 - Kleine Haufen auf ein mit Backpapier ausgelegtes Blech machen.
-- Bei 150° Ober - und Unterhitze 15-20 Min. backen.
+- Bei 150°C Ober - und Unterhitze 15-20 Min. backen.
 - Abkühlen lassen und geniessen.
-- Fototipp - Auftürmen und mit einem einfarbigen Hintergrund bei Tageslicht fotografieren.
+- Foto-Tipp - Auftürmen und mit einem einfarbigen Hintergrund bei Tageslicht fotografieren.
 
 ---
 

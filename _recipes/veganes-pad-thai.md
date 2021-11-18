@@ -17,7 +17,7 @@ ingredients:
 - ½ Karotte (In Streifen geschnitten)
 - 1-2 Frühlingszwiebeln (weissen Teil in kleine Ringe schneiden, den grünen Teil aufbewahren)
 - ¾ dl Gemüsebrühe
-- 1 ½ EL Ahornsirup
+- 1½ EL Ahornsirup
 - 1 EL Soya Sauce
 - ½ EL scharfe Chili Sauce (z.B. Sriracha)
 - 1 Limite (halbiert und halb entsaftet)

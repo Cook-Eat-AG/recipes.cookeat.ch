@@ -34,7 +34,7 @@ directions:
 - Nori-Blatt am Ende mit etwas Wasser befeuchten und andrücken. 
 - Sushi-Rollen mit einem scharfen, nassen Messer in ca. 6 Stücke schneiden. 
 - Auf diese Weise alle Noriblätter zubereiten und mit eingelegtem Ingwer, Wasabi und Sojasauce servieren.
-- Fototipp - Auf ein Holzbrett legen und mit Sesam bestreuen und bei Tageslicht (z.B. am Fenster) Fotos machen. Mit den tollen Bildern am besten gleich auf cookeat.ch zum Teilen anbieten.
+- Foto-Tipp - Auf ein Holzbrett legen und mit Sesam bestreuen und bei Tageslicht (z.B. am Fenster) Fotos machen. Mit den tollen Bildern am besten gleich auf cookeat.ch zum Teilen anbieten.
 
 ---
 

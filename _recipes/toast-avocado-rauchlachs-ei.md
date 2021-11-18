@@ -20,7 +20,7 @@ ingredients:
 
 directions:
 - In einer grossen Bratpfanne das Brot bei mittlerer Hitze toasten. Auf Tellern servieren. 
-- With the frying pan still hot, turn the heat to medium-high and crack both eggs into the pan. Cook until done, usually 4-5 minutes. Solange die Pfanne noch heiss ist die Eier reinschlagen und langsam für ca. 4-5 Minuten bei höherer Hitze brutzeln lassen. 
+- Solange die Pfanne noch heiss ist die Eier reinschlagen und langsam für ca. 4-5 Minuten bei höherer Hitze brutzeln lassen. 
 - Solange die Eier braten die Avocado entkernen. 
 - Avocado herauslöffeln und in einer Schale mit etwas Zitronensaft, Salz und Pfeffer vermischen. Man kann auch Paprikapulver oder Mayonnaise unterrühren. 
 - Avocado auf dem Brot verteilen, den Lachs auftragen und das Spiegelei oben drauf tun. 
