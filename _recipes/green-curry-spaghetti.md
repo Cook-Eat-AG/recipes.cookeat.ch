@@ -29,4 +29,4 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf myprotein gefunden: [Original Rezept](https://www.myprotein.ch/blog/rezepte/gruenes-thai-curry-mit-nudeln-einfache-meal-prep/)
+Das Rezept haben wir für Dich auf myprotein gefunden: [Original Rezept](https://www.myprotein.ch/blog/rezepte/gruenes-thai-curry-mit-nudeln-einfache-meal-prep/){:target="_blank"}

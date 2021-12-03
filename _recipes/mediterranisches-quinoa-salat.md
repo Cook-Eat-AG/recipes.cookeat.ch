@@ -31,4 +31,4 @@ directions:
 
 ---
 
-Originalrezept von Lauren Caris (http://laurencariscooks.com/mediterranean-quinoa-salad/) aber ein wenig abgeändert. 
+Originalrezept von [Lauren Caris](http://laurencariscooks.com/mediterranean-quinoa-salad/){:target="_blank"} aber ein wenig abgeändert. 

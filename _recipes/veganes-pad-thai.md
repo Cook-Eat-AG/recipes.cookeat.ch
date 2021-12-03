@@ -37,4 +37,4 @@ directions:
 
 ---
 
-Ein leckeres Rezept von Lauren Caris (via Fooby): https://fooby.ch/de/rezepte/17187/veganes-pad-thai
+Ein leckeres Rezept von Lauren Caris (via Fooby): [Link zum Original](https://fooby.ch/de/rezepte/17187/veganes-pad-thai){:target="_blank"}

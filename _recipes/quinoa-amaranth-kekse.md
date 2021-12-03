@@ -27,7 +27,7 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf freiknuspern gefunden: [Original Rezept](https://freiknuspern.de/2016/01/06/quinoa-amaranth-snack/)
+Das Rezept haben wir für Dich auf freiknuspern gefunden: [Original Rezept](https://freiknuspern.de/2016/01/06/quinoa-amaranth-snack/){:target="_blank"}
 
 
 

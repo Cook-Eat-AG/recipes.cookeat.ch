@@ -26,4 +26,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf ichkoche.at gefunden: [Original Rezept](
-https://www.ichkoche.at/chia-pudding-grundrezept-rezept-221685)
+https://www.ichkoche.at/chia-pudding-grundrezept-rezept-221685){:target="_blank"}

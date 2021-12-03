@@ -29,4 +29,4 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf einfachbacken gefunden: [Original Rezept](https://www.einfachbacken.de/rezepte/american-pancakes-fluffiges-originalrezept)
+Das Rezept haben wir für Dich auf einfachbacken gefunden: [Original Rezept](https://www.einfachbacken.de/rezepte/american-pancakes-fluffiges-originalrezept){:target="_blank"}

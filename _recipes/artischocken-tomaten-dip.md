@@ -34,4 +34,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf onceuponachef gefunden: [Original Rezept](
-https://www.onceuponachef.com/recipes/roasted-tomato-salsa.html)
+https://www.onceuponachef.com/recipes/roasted-tomato-salsa.html){:target="_blank"}

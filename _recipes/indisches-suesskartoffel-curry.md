@@ -31,4 +31,4 @@ directions:
 
 ---
 
-Ein wunderschönes Rezept von Hello Fresh: https://www.hellofresh.ch/recipes/indisches-suskartoffel-curry-5c5089abc445fa73da672af3 
+Ein wunderschönes Rezept von Hello Fresh: [Link zum Original](https://www.hellofresh.ch/recipes/indisches-suskartoffel-curry-5c5089abc445fa73da672af3){:target="_blank"}

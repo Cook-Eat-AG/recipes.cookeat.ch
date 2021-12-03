@@ -29,4 +29,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf bettybossi gefunden [Original Rezept](
-https://www.bettybossi.ch/BinaryContent/UploadedFiles/zXgd_K-PlHUrhrPjY50T4A==2013103112103182.ADG2022a.pdf)
+https://www.bettybossi.ch/BinaryContent/UploadedFiles/zXgd_K-PlHUrhrPjY50T4A==2013103112103182.ADG2022a.pdf){:target="_blank"}

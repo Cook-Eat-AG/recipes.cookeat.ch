@@ -32,4 +32,4 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf lidl-kochen gefunden: [Original Rezept](https://www.lidl-kochen.de/rezeptwelt/gulasch-mit-champignons-und-tagliatelle-146956)
+Das Rezept haben wir für Dich auf lidl-kochen gefunden: [Original Rezept](https://www.lidl-kochen.de/rezeptwelt/gulasch-mit-champignons-und-tagliatelle-146956){:target="_blank"}

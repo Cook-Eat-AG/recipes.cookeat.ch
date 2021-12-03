@@ -31,4 +31,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf fooby gefunden [Original Rezept](
-https://fooby.ch/de/rezepte/14950/federkohl-randen-salat)
+https://fooby.ch/de/rezepte/14950/federkohl-randen-salat){:target="_blank"}

@@ -31,4 +31,4 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf Kochkino gefunden: [Link zum Original] (https://kochkino.de/mandelecken-nussecken-mal-anders/3354)
+Das Rezept haben wir für Dich auf Kochkino gefunden: [Link zum Original] (https://kochkino.de/mandelecken-nussecken-mal-anders/3354){:target="_blank"}

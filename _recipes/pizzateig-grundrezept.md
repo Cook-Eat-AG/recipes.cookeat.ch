@@ -34,4 +34,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf Gustini gefunden: [Original Rezept](
-https://www.gustini.ch/blog/rezept-italien/pizzateig-rezept-original-wie-in-neapel/)
+https://www.gustini.ch/blog/rezept-italien/pizzateig-rezept-original-wie-in-neapel/){:target="_blank"}

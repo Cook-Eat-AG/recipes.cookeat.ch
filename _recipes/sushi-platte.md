@@ -38,5 +38,5 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf migusto gefunden: [Original Rezept] (https://migusto.migros.ch/de/rezepte/sushi-selber-machen)
+Das Rezept haben wir für Dich auf migusto gefunden: [Original Rezept](https://migusto.migros.ch/de/rezepte/sushi-selber-machen){:target="_blank"}
 

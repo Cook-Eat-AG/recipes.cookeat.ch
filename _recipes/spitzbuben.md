@@ -32,6 +32,6 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf springlane gefunden: [Original Rezept](
-https://www.springlane.de/magazin/rezeptideen/spitzbuben-plaetzchen-mit-marmelade/)
+https://www.springlane.de/magazin/rezeptideen/spitzbuben-plaetzchen-mit-marmelade/){:target="_blank"}
 
 

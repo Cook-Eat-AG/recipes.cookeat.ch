@@ -27,4 +27,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf BBQ Pit gefunden [Original Rezept](
-https://bbqpit.de/rezepte/gluehwein/)
+https://bbqpit.de/rezepte/gluehwein/){:target="_blank"}

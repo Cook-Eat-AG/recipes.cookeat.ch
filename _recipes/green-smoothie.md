@@ -30,4 +30,4 @@ directions:
 
 ---
 
-Das Rezept haben wir bei eatbetter.de gefunden und etwas abgewandelt: [Link zum Original](https://www.eatbetter.de/rezepte/green-smoothie-einfach-lecker-zum-abnehmen?portions=5)
+Das Rezept haben wir bei eatbetter.de gefunden und etwas abgewandelt: [Link zum Original](https://www.eatbetter.de/rezepte/green-smoothie-einfach-lecker-zum-abnehmen?portions=5){:target="_blank"}

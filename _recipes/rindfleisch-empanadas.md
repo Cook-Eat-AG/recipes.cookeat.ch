@@ -33,4 +33,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf Brigitte gefunden [Original Rezept](
-https://www.brigitte.de/rezepte/empanadas-mit-hackfleisch-11664514.html)
+https://www.brigitte.de/rezepte/empanadas-mit-hackfleisch-11664514.html){:target="_blank"}

@@ -37,4 +37,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf kitchenstories gefunden: [Original Rezept](
-https://www.kitchenstories.com/de/rezepte/einfache-ramen-japanische-nudelsuppe-mit-hahnchen)
+https://www.kitchenstories.com/de/rezepte/einfache-ramen-japanische-nudelsuppe-mit-hahnchen){:target="_blank"}

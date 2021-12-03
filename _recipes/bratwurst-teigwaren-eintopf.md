@@ -32,4 +32,4 @@ directions:
 
 ---
 
-Rezept inspiriert von Tasty: https://tasty.co/recipe/one-pot-sausage-and-peppers-pasta
+Rezept inspiriert von Tasty: [Link zum Original](https://tasty.co/recipe/one-pot-sausage-and-peppers-pasta){:target="_blank"}
