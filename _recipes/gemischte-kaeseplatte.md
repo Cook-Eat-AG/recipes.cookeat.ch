@@ -24,4 +24,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf ich-liebe-kaese.de gefunden [Original Rezept](
-https://ich-liebe-kaese.de/inspiration/kaeseplatten/)
+https://ich-liebe-kaese.de/inspiration/kaeseplatten/){:target="_blank"}

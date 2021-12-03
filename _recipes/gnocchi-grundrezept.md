@@ -25,4 +25,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf swissmilk gefunden: [Original Rezept](
-https://www.swissmilk.ch/de/rezepte-kochideen/rezepte/LM201001_65_A/gnocchi/)
+https://www.swissmilk.ch/de/rezepte-kochideen/rezepte/LM201001_65_A/gnocchi/){:target="_blank"}

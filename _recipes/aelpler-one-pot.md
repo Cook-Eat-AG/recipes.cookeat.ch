@@ -30,4 +30,4 @@ directions:
 
 ---
 
-Das Rezept ursprünglich gefunden bei [fooby](https://fooby.ch/de/rezepte/12476/aelpler-one-pot)
+Das Rezept ursprünglich gefunden bei [fooby](https://fooby.ch/de/rezepte/12476/aelpler-one-pot){:target="_blank"}

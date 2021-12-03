@@ -27,5 +27,4 @@ Zubereitung:
 
 In einer vegetarischen Variante kann Gemüsebouillon verwendet werden und Gemüse mit Käse überbacken werden. Kann auch mit einem anderen Fleisch zubereitet werden. Im ersten Schritt kann auch Chilipuder oder Sriracha reingemischt werden - für den extra Kick! 
 
-Das Rezept ist von Tasty adaptiert:
-https://tasty.co/recipe/cheesy-chicken-broccoli-bake
+Das Rezept ist von Tasty adaptiert: [Link zum Original](https://tasty.co/recipe/cheesy-chicken-broccoli-bake){:target="_blank"}

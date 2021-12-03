@@ -535,6 +535,21 @@ label[for="ingredient"] {
 	margin-left: 10px;
 }
 
+.recipe__description {
+	grid-area: recipe-description;
+	text-align: center;
+	margin: 55px auto 0px;
+	max-width: 940px;
+}
+
+.recipe__description a {
+	color: var(--brownish-grey);
+}
+
+.recipe__description p {
+	margin: 0px 20px 0px;
+}
+
 .recipe__footer {
 	grid-area: recipe-footer;
 	text-align: center;

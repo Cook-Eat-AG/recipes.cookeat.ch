@@ -25,4 +25,4 @@ directions:
 
 ---
 
-Angepasst von: https://www.allrecipes.com/recipe/83097/authentic-german-potato-salad/
+Angepasst von AllRecipes: [Link zum Original](https://www.allrecipes.com/recipe/83097/authentic-german-potato-salad/){:target="_blank"}

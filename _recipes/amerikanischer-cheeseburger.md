@@ -33,4 +33,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf kitchenstories gefunden: [Original Rezept](
-https://www.kitchenstories.com/de/stories/den-perfekten-burger-selber-machen)
+https://www.kitchenstories.com/de/stories/den-perfekten-burger-selber-machen){:target="_blank"}

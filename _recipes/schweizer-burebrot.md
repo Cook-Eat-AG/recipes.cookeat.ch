@@ -31,4 +31,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf «schweizer brot» gefunden: [Original Rezept](
-https://schweizerbrot.ch/rezept/burebrot/)
+https://schweizerbrot.ch/rezept/burebrot/){:target="_blank"}

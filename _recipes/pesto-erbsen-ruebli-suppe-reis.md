@@ -31,4 +31,4 @@ directions:
 
 ---
 
-Leicht abgeändert von Rachel Rays Rezept (https://www.rachaelraymag.com/recipe/pea-carrot-soup-with-rice). Lässt sich gut einfrieren für später. 
+Leicht abgeändert von [Rachel Rays Rezept](https://www.rachaelraymag.com/recipe/pea-carrot-soup-with-rice){:target="_blank"}. Lässt sich gut einfrieren für später. 

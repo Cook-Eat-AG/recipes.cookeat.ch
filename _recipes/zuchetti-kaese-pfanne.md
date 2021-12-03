@@ -33,4 +33,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf kochbar gefunden [Original Rezept](
-https://www.kochbar.de/rezept/56545/Zucchini-Kaese-Pfanne-mit-Bacon.html)
+https://www.kochbar.de/rezept/56545/Zucchini-Kaese-Pfanne-mit-Bacon.html){:target="_blank"}

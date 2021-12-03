@@ -38,4 +38,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf sallysbakingaddiction gefunden [Original Rezept](
-https://sallysbakingaddiction.com/best-black-bean-burgers/)
+https://sallysbakingaddiction.com/best-black-bean-burgers/){:target="_blank"}

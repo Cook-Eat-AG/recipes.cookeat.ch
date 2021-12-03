@@ -30,4 +30,4 @@ directions:
 
 ---
 
-Originalrezept von BBC, jedoch den Halloumikäse durch Hähnchen ersetzt: https://www.bbcgoodfood.com/recipes/halloumi-broccoli-tabbouleh-honey-harissa-dressing
+Originalrezept von BBC, jedoch den Halloumikäse durch Hähnchen ersetzt: [Link zum Original](https://www.bbcgoodfood.com/recipes/halloumi-broccoli-tabbouleh-honey-harissa-dressing){:target="_blank"}

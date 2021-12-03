@@ -28,4 +28,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf kuechengoetter gefunden: [Original Rezept](
-https://www.kuechengoetter.de/rezepte/grundrezept-nudelteig-51575)
+https://www.kuechengoetter.de/rezepte/grundrezept-nudelteig-51575){:target="_blank"}

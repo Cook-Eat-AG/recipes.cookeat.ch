@@ -40,4 +40,4 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf bob-food.de gefunden und etwas abgeändert [Original Rezept](https://bob-food.de/rezept/tom-yam-gung/)
+Das Rezept haben wir für Dich auf bob-food.de gefunden und etwas abgeändert [Original Rezept](https://bob-food.de/rezept/tom-yam-gung/){:target="_blank"}

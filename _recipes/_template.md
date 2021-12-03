@@ -20,4 +20,4 @@ directions:
 
 ---
 
-Ich kann hier etwas schreiben und [verlinken](https://www.cookeat.ch)
+Ich kann hier etwas schreiben und [verlinken](https://www.cookeat.ch){:target="_blank"}

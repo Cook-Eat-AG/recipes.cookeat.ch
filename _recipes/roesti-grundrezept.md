@@ -26,4 +26,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf gutekueche.ch gefunden [Original Rezept](
-https://www.gutekueche.ch/schwetizer-roesti-rezept-4983)
+https://www.gutekueche.ch/schwetizer-roesti-rezept-4983){:target="_blank"}

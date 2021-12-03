@@ -33,4 +33,4 @@ directions:
 
 ---
 
-"Es gibt viele verschiedene Variationen von Loco Moco aber die traditionelle beinhaltet gedampften Reis, saftige Hamburger, geschmacksintensive Bratensauce und das Spiegelei." [Just One Cookbook](https://www.justonecookbook.com/loco-moco/)
+"Es gibt viele verschiedene Variationen von Loco Moco aber die traditionelle beinhaltet gedampften Reis, saftige Hamburger, geschmacksintensive Bratensauce und das Spiegelei." [Just One Cookbook](https://www.justonecookbook.com/loco-moco/){:target="_blank"}

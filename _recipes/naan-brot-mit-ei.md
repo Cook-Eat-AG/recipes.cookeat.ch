@@ -33,4 +33,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf Bianca Zapatka gefunden: [Original Rezept](
-https://biancazapatka.com/de/veganes-naan-brot/)
+https://biancazapatka.com/de/veganes-naan-brot/){:target="_blank"}

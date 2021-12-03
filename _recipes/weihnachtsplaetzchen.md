@@ -36,4 +36,4 @@ directions:
 ---
 
 Das Rezept haben wir für Dich auf kitchenstories gefunden [Original Rezept](
-https://www.kitchenstories.com/de/rezepte/verzierte-weihnachtsplatzchen)
+https://www.kitchenstories.com/de/rezepte/verzierte-weihnachtsplatzchen){:target="_blank"}

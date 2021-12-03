@@ -30,4 +30,4 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf youtube bei «kochen und backen mit Bernd» gefunden [Original Rezept](https://www.youtube.com/watch?v=UVh3q2CPEuA)
+Das Rezept haben wir für Dich auf youtube bei «kochen und backen mit Bernd» gefunden [Original Rezept](https://www.youtube.com/watch?v=UVh3q2CPEuA){:target="_blank"}

@@ -33,4 +33,4 @@ directions:
 
 Ein echter "Matty" Klassiker bei dem alle möglichen Sorten an Gemüse gebraucht werden können oder das was man gerade zu Hause hat.
 Man kann ganz leicht eine grosse Menge zubereiten und für später einfrieren. 
-Vorsicht! Das Püree erhält eine bräunliche Farbe. Man kann aber mit grüner oder blauer Lebensmittelfarbe nachhelfen :D
+Vorsicht! Das Püree erhält eine bräunliche Farbe. Man kann aber mit grüner oder blauer Lebensmittelfarbe nachhelfen :)
