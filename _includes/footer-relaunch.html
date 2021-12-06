@@ -1,19 +1,19 @@
-		
-
 		<section class="footer-legal">
 			<p class="paragraph paragraph--small">&copy; 2021 Cook Eat. Alle Rechte vorbehalten.</p>
 		</section>
 	</div>
 
-<script type="text/javascript" src='https://code.jquery.com/jquery-3.3.1.min.js'></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/simple-jekyll-search/1.7.2/simple-jekyll-search.min.js" type="text/javascript"></script>
+<!-- <script type="text/javascript" src='https://code.jquery.com/jquery-3.3.1.min.js'></script> -->
+<script src="/plugins/simple-jekyll-search.min.js" type="text/javascript"></script>
 <script>
-SimpleJekyllSearch({
-	searchInput: document.getElementById('search-input'),
-	resultsContainer: document.getElementById('results-container'),
-	json: '{{ site.baseurl }}/search.json',
-	noResultsText: "Keine Rezepte! :-(",
-	searchResultTemplate: '<div class="recipe"><a class="recipe__link" href="{url}"><img src="{image}" class="recipe__link--image"><h2 class="recipe__link--title">{title}</h2></a></div>'})
+	var sjs = SimpleJekyllSearch({
+        searchInput: document.getElementById('search-input'),
+        resultsContainer: document.getElementById('results-container'),
+        json: '/search.json',
+        noResultsText: "Keine Rezepte! :-(",
+        fuzzy: false,
+        searchResultTemplate: '<div class="recipe"><a class="recipe__link" href="{url}"><img src="{image}" class="recipe__link--image"><h2 class="recipe__link--title">{title}</h2></a></div>'
+    });
 </script>
 <script>
 	$( document ).ready(function() {

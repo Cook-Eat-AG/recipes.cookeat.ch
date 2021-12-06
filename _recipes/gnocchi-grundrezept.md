@@ -12,7 +12,7 @@ persons: 4
 
 ingredients:
 - 1 kg mehligkochende Kartoffeln
-- 300 g	Mehl
+- 300 g Mehl
 - 1 Ei
 - eine Prise Muskatnuss
 
