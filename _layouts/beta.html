@@ -185,7 +185,8 @@
 SimpleJekyllSearch({
 searchInput: document.getElementById('search-input'),
 resultsContainer: document.getElementById('results-container'),
-json: '/search.json',
+json: '{{site.baseurl}}/search.json',
+noResultsText: "Keine Rezepte! :-(",
 searchResultTemplate: '<div class="recipe sm-col sm-col-6 lg-col-4 py1 pb2"><a class="block black relative mx1 text-decoration-none" href="{url}"><div class="image ratio bg-primary bg-cover" style="background-image:url({image});"></div><h3 class="title pt1 m0 bold">{title}</h3></a></div>'})
 </script>
 <script>
