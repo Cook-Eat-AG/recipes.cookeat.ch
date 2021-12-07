@@ -16,7 +16,7 @@ ingredients:
 - 400 g Hörnli (Nudeln)
 - 1 Pk Käse, gerieben (z.B. Sbrinz)
 - 250 ml Milch
-- 150 g	Schinken, gewürfelt
+- 150 g Schinken, gewürfelt
 
 directions:
 - Für den Hörnliauflauf zuerst die Hörnli in Salzwasser bissfest kochen, durch ein Sieb abseihen und mit kalten Wasser abschrecken.

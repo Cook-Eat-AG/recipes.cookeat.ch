@@ -11,11 +11,11 @@ tags: fleisch, proteinreich
 persons: 5
 
 ingredients:
-- 5	Burgerbrötchen
+- 5 Burgerbrötchen
 - 1 kg Rinderhack (grob)
 - 1 Tomate
-- 1	Gurke
-- 2	Zwiebeln (rot)
+- 1 Gurke
+- 2 Zwiebeln (rot)
 - 5 Scheiben Cheddarkäse
 - 5 TL Mayonnaise
 - 5 TL Ketchup
