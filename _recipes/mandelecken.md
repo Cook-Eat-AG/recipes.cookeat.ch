@@ -23,7 +23,7 @@ ingredients:
 - 280 g Aprikosenkonfitüre
 
 directions:
-- Zuerst aus 300g Mehl, 120g Zucker, einem Ei und 170g kalter Butter einen Mürbteig kneten.
+- Zuerst aus Mehl, Zucker, Ei und kalter Butter einen Mürbteig kneten.
 - Teig in Folie wickeln und 30Min. kalt stellen.
 - Butter, Wasser, Puderzucker, Vanillezucker und Salz in einen Topf geben und erwärmen bis alles flüssig ist, bevor die Mandeln dazu kommen.
 - Als nächstes, den durchgekühlten Mürbteig auf einem Blech auswellen. Erst mit Aprikosen Konfitüre dann mit der Mandelmasse gleichmässig bestreichen.
@@ -33,4 +33,4 @@ directions:
 
 ---
 
-Das Rezept haben wir für Dich auf Kochkino gefunden: [Link zum Original] (https://kochkino.de/mandelecken-nussecken-mal-anders/3354){:target="_blank"}
+Das Rezept haben wir für Dich auf Kochkino gefunden: [Link zum Original](https://kochkino.de/mandelecken-nussecken-mal-anders/3354){:target="_blank"}

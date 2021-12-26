@@ -11,7 +11,7 @@ tags: vegan, vegi
 persons: 5
 
 ingredients:
-- 2 Kg gemischte Tomaten (gewaschen, geviertelt)
+- 2 kg gemischte Tomaten (gewaschen, geviertelt)
 - 2 EL braunen Zucker
 - 3 EL Olivenöl
 - 3 Knoblauchzehen (geschält, angedrückt)
