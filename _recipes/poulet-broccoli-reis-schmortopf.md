@@ -8,7 +8,9 @@ imagecrediturl: https://www.delish.com/cooking/recipe-ideas/recipes/a46772/chees
 imagecreditname: Delish
 tags: fleisch
 
-Zutataten:
+persons: 2
+
+ingredients:
 - 200 g Langkornreis (am besten braun)
 - ¼ TL Pfeffer
 - ½ TL Zwiebelpulver
@@ -17,7 +19,7 @@ Zutataten:
 - 300 g Broccoli, gewürfelt
 - 360 ml Hühnerbouillon
 
-Zubereitung:
+directions:
 - Ofen bei Ober- und Unterhitze auf 190 Grad vorheizen.
 - In einer Auflaufform, Reis, Pfeffer, Zwiebelpulver, Käse (zwei Hände voll für später aufbewahren), Broccoli und Hühnerbouillon vermengen. 
 - Mit Alufolie abdecken und 35 Minuten backen. Danach verbleibende 15 Minuten die Hähnchenbrust in einer Pfanne gut würzen und fertig braten. 
