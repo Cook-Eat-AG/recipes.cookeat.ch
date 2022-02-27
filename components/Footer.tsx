@@ -37,7 +37,7 @@ export default function Footer({isDetailpage, isFullWidth}: Footer) {
 							</Link>
 						</div>
 						<div className={styles.footer__legal}>
-							<p>&copy; 2022 All rights reserved by Cook Eat</p>
+							<p>&copy; 2022 Cook Eat. Alle Rechte vorbehalten.</p>
 						</div>
 					</footer>
 					:
@@ -49,7 +49,7 @@ export default function Footer({isDetailpage, isFullWidth}: Footer) {
 							</Link>
 						</div>
 						<div className={styles.footer__legal}>
-							<p>&copy; 2022 All rights reserved by Cook Eat</p>
+							<p>&copy; 2022 Cook Eat. Alle Rechte vorbehalten.</p>
 						</div>
 					</footer>
 				}

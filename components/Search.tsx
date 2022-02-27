@@ -19,9 +19,8 @@ export default function Search({recipe}) {
 		// @ts-ignore
 		let searchBar: HTMLInputElement = document.querySelector("#searchbar");
 
-
 		searchBar.addEventListener("keyup", (event: KeyboardEvent) => {
-			const  el = event.target as HTMLInputElement;
+			const el = event.target as HTMLInputElement;
 
 			const titleResult: never[] = [];
 			const tagsResult: never[] = [];
