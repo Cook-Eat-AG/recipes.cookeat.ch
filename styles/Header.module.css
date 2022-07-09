@@ -2,7 +2,7 @@
 	background: url("../public/assets/kv_egg.jpg");
 	background-size: cover;
 	max-width: 1440px;
-	height: 385px;
+	min-height: 385px;
 	display: flex;
 	flex-flow: row nowrap;
 	justify-content: space-evenly;
@@ -30,29 +30,33 @@
 .header__title {
 	max-width: 863px;
 	display: flex;
-	flex-flow: column wrap;
+	flex-flow: column;
 	justify-content: center;
 	align-items: center;
 	padding: 0 1rem;
+	margin-top: 4rem;
+}
+
+@media only screen and (max-width: 660px) {
+	.header__title {
+		margin: 10rem 0 2rem 0;
+	}
 }
 
 .header__title h1 {
-	margin-top: 4rem;
 	color: var(--white);
-}
-
-@media only screen and (max-width: 480px) {
-	.header__title h1 {
-		margin-top: 6rem;
-	}
+	font-family: Caveat Brush;
+	font-weight: 400;
+	font-size: clamp(6rem,12vw,12rem);
+	line-height: 4.25rem;
 }
 
 .header__title p {
 	color: var(--white);
-	font-size: clamp(1.5rem, 1vw, 3rem);
+	font-size: clamp(2rem,1vw,1.5rem);
 	line-height: 1.5;
 	text-align: center;
-	margin-top: 2rem;
+	margin-top: 6rem;
 }
 
 .header__detailPage {
