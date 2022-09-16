@@ -25,7 +25,13 @@ export default function Recipe({ recipes }: InferGetStaticPropsType<typeof getSt
 	return (
 		<>
 			<Head>
-				<title>Cook Eat Rezepte | {recipe.title}</title>
+				<title>Cook Eat Rezepte | {recipe[0].title}</title>
+				<meta name="description" content={recipe[0].description}/>
+				<meta property="og:url" content={`https://rezepte.cookeat.ch/recipes/${slug}`}/>
+				<meta property="og:type" content="recipe"/>
+				<meta property="og:title" content={recipe[0].title}/>
+				<meta property="og:description" content={recipe[0].description}/>
+				<meta property="og:image" content={recipe[0].image.url}/>
 			</Head>
 			<div className={styles.layout}>
 				{recipe.map((item: any) => {
@@ -35,6 +41,7 @@ export default function Recipe({ recipes }: InferGetStaticPropsType<typeof getSt
 							isDetailpage={true}
 							isFullWidth={false}
 							image={item.image} />
+							
 						</>
 					)
 				})}

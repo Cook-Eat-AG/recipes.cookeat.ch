@@ -15,11 +15,6 @@
 	--legal: var(--brownish-grey);
 }
 
-@font-face {
-	font-family: "Debby";
-	src: url("../public/fonts/Debby.ttf") format("truetype");
-}
-
 html,
 body {
 	box-sizing: border-box;
