@@ -4,7 +4,7 @@ import CTFLData from "../lib/api";
 import {GetStaticPaths, GetStaticPathsContext, GetStaticProps, InferGetStaticPropsType} from "next";
 import Header from "../components/Header";
 import Footer from "../components/Footer";
-// import Search from "../components/Search";
+import Search from "../components/Search";
 import RecipeCard from "../components/RecipeCard";
 import RecipeSubmit from "../components/RecipeSubmit";
 import styles from "../styles/Index.module.css";
@@ -26,10 +26,9 @@ export default function Index({ recipes }: InferGetStaticPropsType<typeof getSta
 					isDetailpage={false}
 					isFullWidth={true}
 					image={""} />
-				{/* todo: search needs to be added so it works. */}
-				{/* <Search
+				{<Search
 					recipe={recipe}
-				/> */}
+				/>}
 				<main className={styles.main} key={recipes.slug}>
 					<div className={styles.recipeCard}>
 						{recipe.map((item: any, index: number) => {

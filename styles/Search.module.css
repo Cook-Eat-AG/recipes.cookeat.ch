@@ -19,6 +19,10 @@
 	margin: 0;
 }
 
+.search__input:focus {
+	outline-width: 0;
+}
+
 .search:before {
 	content: "";
 	background: var(--grey);

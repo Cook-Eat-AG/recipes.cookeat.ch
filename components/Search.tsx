@@ -3,12 +3,12 @@ import styles from "../styles/Search.module.css";
 
 // @ts-ignore
 export default function Search({recipe}) {
-		const recipeTags = recipe.map((item: any) => {
-			return item.tagsCollection;
-		});
-
 		const recipeTitle = recipe.map((item: any) => {
 			return item.title;
+		});
+	
+		const recipeTags = recipe.map((item: any) => {
+			return item.tagsCollection;
 		});
 
 		const recipeIngredients = recipe.map((item: any) => {
@@ -29,29 +29,32 @@ export default function Search({recipe}) {
 			recipeTitle.map((item: any) => {
 				setTimeout(() => {
 					if (item.includes(el.value)) {
-						item.push(titleResult);
-					}
-				}, 5000);
+						console.log(item);
+						// `item` cannot be used to be pushed into the array, something to do with types
+						//titleResult.push(item);
+					} 
+				}, 3000);
 			});
+			console.log("titleResult",titleResult);
 
-			recipeTags.map((item: any) => {
+			/* recipeTags.map((item: any) => {
 				setTimeout(() => {
 					if (item.items.includes(el.value)) {
 						item.push(tagsResult);
 					}
 				}, 5000);
-			});
+			}); */
 
-			recipeIngredients.map((item: any) => {
+			/* recipeIngredients.map((item: any) => {
 				setTimeout(() => {
 					if (item.includes(el.value)) {
 						item.push(ingredientsResult);
 					}
 				}, 5000);
-			});
+			}); */
 
+		
 		});
-
 	});
 
 	return (
